@@ -1,0 +1,4103 @@
+{
+  "version": "1.0.0",
+  "total_links": 150,
+  "ingested_count": 150,
+  "categories": {
+    "1-components": "Componentes UI e Microinterações",
+    "2-design-systems": "Bibliotecas UI e Design Systems",
+    "3-motion": "Motion, Animações e Transições",
+    "4-shaders-3d": "WebGL, Shaders e Efeitos 3D",
+    "5-galleries": "Inspiração de Sites e Landing Pages",
+    "6-templates": "Templates e Experiências Completas",
+    "7-typography": "Tipografia e Identidade Visual"
+  },
+  "entries": [
+    {
+      "id": "21st-dev",
+      "name": "21st.dev",
+      "url": "https://21st.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/001-21st-dev.md",
+      "dna": [
+        "Dark Craft",
+        "Modern Minimal",
+        "High-Impact Motion",
+        "Shader & Canvas FX"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Radix UI",
+        "Three.js / WebGL"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "cult-ui",
+      "name": "Cult UI",
+      "url": "https://www.cult-ui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/002-cult-ui.md",
+      "dna": [
+        "Dark Craft & Neumorphic Tactility",
+        "Fluid Morphing & Spring Physics",
+        "Generative & AI-Native UI",
+        "Micro-Layered Borders & Glassmorphism"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js 15",
+        "Tailwind CSS (v3 & v4)",
+        "Motion (Framer Motion)",
+        "Radix UI",
+        "Vaul"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "skiper-ui",
+      "name": "Skiper UI",
+      "url": "https://skiper-ui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/003-skiper-ui.md",
+      "dna": [
+        "Dark Canvas & High-Contrast Craft",
+        "View-Transitions Cinematic Reveals",
+        "Depth-Layered 3D Perspective Carousels",
+        "Scroll-Driven Kinetic Typography"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js 14/15 (App Router)",
+        "Tailwind CSS (v3/v4)",
+        "Motion (Framer Motion)",
+        "Swiper",
+        "View Transitions API",
+        "Radix UI",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "spell-sh",
+      "name": "Spell UI",
+      "url": "https://spell.sh/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/004-spell-sh.md",
+      "dna": [
+        "Tactile Micro-Interactions",
+        "Creative Engineering & Shader Magic",
+        "Dynamic Typographic Motion",
+        "Polished Dark/Light Craft"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js 15/16 (App Router)",
+        "Tailwind CSS v4",
+        "Motion 12 (motion/react)",
+        "Three.js",
+        "Radix UI",
+        "opentype.js",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "originkit-dev",
+      "name": "OriginKit",
+      "url": "https://www.originkit.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/005-originkit-dev.md",
+      "dna": [
+        "Cyber-Craft & Tactile Motion",
+        "Matrix Dither & Retro-Futurism",
+        "Dynamic Pointer FX",
+        "Bifurcação Code & Framer"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js 15 (App Router)",
+        "Tailwind CSS v3/v4",
+        "Motion (framer-motion)",
+        "Framer (Code Components)",
+        "Model Context Protocol (MCP)",
+        "HTML5 Canvas API",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "originkit-sections",
+      "name": "OriginKit Sections",
+      "url": "https://www.originkit.dev/sections",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/006-originkit-sections.md",
+      "dna": [
+        "Modern Luminescent SaaS",
+        "Dark Craft Sections",
+        "Motion-Driven Landing Blocks",
+        "AI-Native Component Architecture"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js 15/16 (App Router)",
+        "Tailwind CSS v3/v4",
+        "Motion 12 (motion/react / framer-motion)",
+        "Radix UI",
+        "Lucide React",
+        "Framer Code Components",
+        "OriginKit CLI & MCP Server"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "bencho-dev",
+      "name": "Bencho.dev",
+      "url": "https://bencho.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/007-bencho-dev.md",
+      "dna": [
+        "Playful Tactility & Haptic Micro-Interactions",
+        "Skeuomorphic Motion & Physics-Driven UI",
+        "Sensory Audio-Visual Feedback (Web Audio API)",
+        "Craft Digital & Organic Fluidity"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Motion (Framer Motion)",
+        "Web Audio API",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "unlumen-ui",
+      "name": "Unlumen UI",
+      "url": "https://ui.unlumen.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/008-unlumen-ui.md",
+      "dna": [
+        "Dark Craft & Vercel Polish",
+        "Restrained Motion & Tactility",
+        "Progressive Blur & Micro-Borders",
+        "Kinetic Typography & Shaders"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Motion (motion/react & framer-motion)",
+        "shadcn CLI"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "microkit-co",
+      "name": "MicroKit UI",
+      "url": "https://microkit.co/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/009-microkit-co.md",
+      "dna": [
+        "Micro-Interaction Craft",
+        "Tactile Physics & Springs",
+        "Precision Dark & Light Tokens",
+        "Zero-Bloat Vanilla Tailwind",
+        "Official shadcn Registry"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "Tailwind CSS v3 / v4",
+        "shadcn/ui Registry CLI",
+        "Lucide React",
+        "Native CSS & rAF"
+      ],
+      "densidade": "Media",
+      "impacto": "Moderado"
+    },
+    {
+      "id": "reactbits-dev",
+      "name": "React Bits",
+      "url": "https://reactbits.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/010-reactbits-dev.md",
+      "dna": [
+        "Creative Coding & WebGL Shaders",
+        "Cyberpunk Kinetic Typography",
+        "Dark Craft Tactile Micro-Interactions",
+        "Fluid Spring Physics & Cursor Magnetism"
+      ],
+      "frameworks": [
+        "React 18/19",
+        "Next.js (App Router)",
+        "Tailwind CSS (v3 & v4)",
+        "Motion (Framer Motion)",
+        "OGL (WebGL)",
+        "Three.js (opcional)"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "vue-bits-dev",
+      "name": "Vue Bits",
+      "url": "https://vue-bits.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/011-vue-bits-dev.md",
+      "dna": [
+        "Creative Motion & WebGL Shaders",
+        "Physics-Driven Micro-interactions",
+        "Kinetic Typography & Dynamic Text",
+        "Modern Vue 3 Composition Architecture"
+      ],
+      "frameworks": [
+        "Vue 3 (Composition API / `<script setup>`)",
+        "Nuxt 3 / Nuxt 4",
+        "Tailwind CSS (v3 & v4)",
+        "Motion-V (Framer Motion for Vue)",
+        "OGL (Minimal WebGL)",
+        "Three.js / TresJS",
+        "Matter-js (2D Physics)",
+        "GSAP"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "sveltebits-xyz",
+      "name": "Svelte Bits",
+      "url": "https://sveltebits.xyz/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/012-sveltebits-xyz.md",
+      "dna": [
+        "Creative Coding & WebGL Shaders",
+        "Cyberpunk Kinetic Typography",
+        "Fine-Grained Reactive Micro-Interactions",
+        "Svelte 5 Runes & Spring Physics",
+        "Dark Craft Tactile Surfaces"
+      ],
+      "frameworks": [
+        "Svelte 5 (Runes)",
+        "SvelteKit",
+        "Tailwind CSS (v3 & v4)",
+        "TypeScript",
+        "svelte/motion (Spring/Tween)",
+        "OGL (WebGL)",
+        "Three.js (opcional)"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "uiverse-io",
+      "name": "Uiverse.io",
+      "url": "https://uiverse.io/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/013-uiverse-io.md",
+      "dna": [
+        "Pure CSS & Tailwind Craft",
+        "Zero-JS Micro-Interactions",
+        "Tactile Skeuomorphism & Cyberpunk Glows",
+        "Community Creative Experiments"
+      ],
+      "frameworks": [
+        "HTML5",
+        "CSS3 Puro",
+        "Tailwind CSS (v3 & v4)",
+        "React / Next.js",
+        "Vue",
+        "Svelte",
+        "Figma"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "uiverse-elements",
+      "name": "Uiverse Elements",
+      "url": "https://uiverse.io/elements",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/014-uiverse-elements.md",
+      "dna": [
+        "Pure CSS Craft",
+        "Atomic Micro-interactions",
+        "Cyberpunk & Neumorphism",
+        "3D Push & Tactile UI",
+        "High-Impact Visual Feedback"
+      ],
+      "frameworks": [
+        "Pure CSS",
+        "HTML5",
+        "Tailwind CSS",
+        "React",
+        "Next.js",
+        "Figma"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "uiverse-design",
+      "name": "Uiverse Design Gallery & Systems",
+      "url": "https://uiverse.io/design/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/015-uiverse-design.md",
+      "dna": [
+        "CSS-First Craft",
+        "Glassmorphic Compositions",
+        "Cyberpunk & Neon Shimmer",
+        "Retro Brutalism & Soft Neumorphism",
+        "Framework-Agnostic Design Systems"
+      ],
+      "frameworks": [
+        "HTML5 / CSS3 Puro",
+        "Tailwind CSS",
+        "React",
+        "Next.js",
+        "Vue.js",
+        "Svelte"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "aceternity-ui",
+      "name": "Aceternity UI",
+      "url": "https://ui.aceternity.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/016-aceternity-ui.md",
+      "dna": [
+        "Sci-Fi Dark Craft",
+        "Cybernetic Minimalism",
+        "High-Impact Kinetic",
+        "Luminescent Gradients",
+        "Linear & Vercel Aesthetic"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion / Motion",
+        "TypeScript",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "magic-ui",
+      "name": "Magic UI",
+      "url": "https://magicui.design/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/017-magicui-design.md",
+      "dna": [
+        "SaaS Landing Page Craft",
+        "Luminous Edge Tracing & Glows",
+        "Asymmetric Bento Architecture",
+        "Motion-Driven Conversion Hooks",
+        "Dynamic SVG Pathflows"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js 15 (App Router)",
+        "Tailwind CSS (v3.4 & v4)",
+        "Motion (Framer Motion)",
+        "Lucide React",
+        "Radix UI",
+        "cobe (WebGL)"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "motion-primitives",
+      "name": "Motion Primitives",
+      "url": "https://motion-primitives.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/018-motion-primitives.md",
+      "dna": [
+        "Modern Minimal Motion",
+        "Typography Kinetics",
+        "Micro-Interactions de Alta Fidelidade",
+        "Layout Morphing & Shared Elements",
+        "Apple-Grade Glass & Progressive Blurs"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Next.js (App Router & Pages Router)",
+        "Motion (anteriormente Framer Motion)",
+        "Tailwind CSS (v3 / v4)",
+        "TypeScript"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "animate-ui",
+      "name": "Animate UI",
+      "url": "https://animate-ui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/019-animate-ui.md",
+      "dna": [
+        "Modern Micro-Motion",
+        "Drop-in Fluid Kinetics",
+        "Subtle Organic Springs",
+        "Kinetic Typography & Data-Odometers",
+        "Generative Interactive Backdrops"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Vue 3",
+        "Next.js",
+        "Tailwind CSS (v3 & v4)",
+        "Motion (Framer Motion v11/12)",
+        "Radix UI",
+        "Base UI",
+        "React Aria",
+        "Reka UI",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "fancycomponents-dev",
+      "name": "Fancy Components",
+      "url": "https://www.fancycomponents.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/020-fancycomponents-dev.md",
+      "dna": [
+        "Creative Motion & Playful Engineering",
+        "Kinetic Variable Typography",
+        "2D Rigid-Body Physics (Matter.js)",
+        "Tactile Awwwards-Grade Micro-Interactions",
+        "SVG Masking & Organic Gooey Shaders"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "Tailwind CSS (v3 & v4)",
+        "Motion (Framer Motion 12)",
+        "Matter.js (v0.20+)",
+        "Poly-decomp",
+        "SVG Path Commander",
+        "Flubber"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "kokonut-ui",
+      "name": "Kokonut UI",
+      "url": "https://www.kokonutui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/021-kokonutui.md",
+      "dna": [
+        "Tactile Micro-Interactions",
+        "Physical Spring Dynamics",
+        "AI Native & Copilot UI",
+        "Clean Monospace Craft",
+        "Shadcn Registry Native",
+        "Modern Minimalist Light/Dark"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js 15 (App Router)",
+        "Tailwind CSS v4 & v3",
+        "Motion (motion/react)",
+        "shadcn/ui",
+        "TypeScript",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "animata-design",
+      "name": "Animata",
+      "url": "https://animata.design/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/022-animata-design.md",
+      "dna": [
+        "iOS & macOS Native Widget Craft",
+        "Bento Grid Storytelling",
+        "CSS Houdini & Keyframe Micro-interactions",
+        "High-Tactile Physics & Haptics",
+        "Modular Copy-Paste Registry"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js 15 / 14 (App Router)",
+        "Tailwind CSS (v3.4 & v4)",
+        "Motion (Framer Motion)",
+        "Lucide React",
+        "shadcn/ui Remote Registry"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "uselayouts",
+      "name": "UseLayouts",
+      "url": "https://uselayouts.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/023-uselayouts.md",
+      "dna": [
+        "Modern Tactile Craft",
+        "iOS/macOS Skeuomorphic Physics",
+        "Layout Morphing & Shared Projections",
+        "Liquid Glass & Progressive Speculars",
+        "Physical Paper & Spatial Metaphors"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Next.js (App Router)",
+        "Motion (Framer Motion)",
+        "Tailwind CSS (v3 / v4)",
+        "TypeScript",
+        "shadcn/ui Registry Architecture"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "vault-hyperiux",
+      "name": "Hyperiux Vault",
+      "url": "https://vault.hyperiux.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/024-vault-hyperiux.md",
+      "dna": [
+        "Awwwards-Grade Creative Motion",
+        "Dark High-Contrast Aesthetic",
+        "Physics-Driven Fluidity (Lenis + GSAP)",
+        "WebGL Shader Magic & Particle Depth",
+        "Source-First Kinetic Layer"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "GSAP / ScrollTrigger / Flip",
+        "Lenis (@studio-freight/lenis / lenis)",
+        "Motion (Framer Motion)",
+        "Three.js / React Three Fiber",
+        "Tailwind CSS",
+        "TypeScript"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "osmo-supply",
+      "name": "Osmo Supply",
+      "url": "https://www.osmo.supply/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/025-osmo-supply.md",
+      "dna": [
+        "Dutch Creative Engineering",
+        "Awwwards-Grade Motion",
+        "Fluid Inertia & Magnetic Micro-Interactions",
+        "Curved SVG Morphing & Page Transitions",
+        "Kinetic Typography & Smooth Scroll Momentum"
+      ],
+      "frameworks": [
+        "GSAP 3 (ScrollTrigger",
+        "Flip",
+        "Draggable",
+        "CustomEase)",
+        "Lenis Smooth Scroll",
+        "React / Next.js",
+        "Webflow (Cloneables)",
+        "Tailwind CSS",
+        "Barba.js"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "eldora-ui",
+      "name": "Eldora UI",
+      "url": "https://www.eldoraui.site/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/026-eldoraui.md",
+      "dna": [
+        "SaaS & DevTools Hero Motion",
+        "Houdini Conic Luminous Accents",
+        "WebGL & Three.js Atmospheric Shaders",
+        "Interactive Micro-App Simulations",
+        "Kinetic Variable Typography"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js 15 (App Router) / 14",
+        "Tailwind CSS (v4 & v3.4)",
+        "Motion (motion/react / Framer Motion)",
+        "Three.js & OGL",
+        "Lucide React",
+        "Shadcn CLI / Fumadocs"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "luxe-ui",
+      "name": "Luxe UI",
+      "url": "https://www.luxeui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/027-luxeui.md",
+      "dna": [
+        "Dark Luxury Minimal",
+        "Directional Lighting & Shines",
+        "Precision Craft",
+        "OKLCH Monochromatic Depth",
+        "Spring Magnetic Haptics",
+        "Variant-Driven Architecture"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js 15 (App Router)",
+        "Tailwind CSS v4 & v3",
+        "Motion (motion/react)",
+        "Radix UI Primitives",
+        "input-otp",
+        "react-use-measure",
+        "TypeScript"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "rare-ui",
+      "name": "Rare UI",
+      "url": "https://www.rareui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/028-rareui.md",
+      "dna": [
+        "Apple-Inspired Tactile Craft",
+        "Rare & Kinetic Micro-Interactions",
+        "Shadcn Registry Native",
+        "AI Copilot & Multimodal UI",
+        "Squircle Geometry & Flubber Morphing",
+        "Raw WebGL Shaders & Canvas Physics"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js 15 (App Router)",
+        "Tailwind CSS v4 & v3",
+        "Motion (motion/react)",
+        "TypeScript",
+        "shadcn CLI Registry",
+        "Model Context Protocol (MCP)"
+      ],
+      "densidade": "Media a Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "motiq-dev",
+      "name": "Motiq",
+      "url": "https://motiq.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/029-motiq-dev.md",
+      "dna": [
+        "Deep Ink + Azure + Coral",
+        "Production-First Motion Registry",
+        "Accessible Kinetic Micro-Interactions",
+        "Container Query Data Ergonomics",
+        "Zero Lock-in Editable Source"
+      ],
+      "frameworks": [
+        "React 19 / 18.3+",
+        "Next.js 15 / 14 (App Router & RSC)",
+        "Tailwind CSS v4",
+        "Motion for React (motion/react)",
+        "Radix UI Primitives",
+        "shadcn/ui CLI Registry"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "interior-dev",
+      "name": "Interior.dev",
+      "url": "https://www.interior.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/030-interior-dev.md",
+      "dna": [
+        "Invisible Craft",
+        "Tactile Micro-interactions",
+        "Refined Neutral Minimal",
+        "Sub-pixel Precision"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Motion (Framer Motion)",
+        "TypeScript",
+        "shadcn/ui Registry"
+      ],
+      "densidade": "Media",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "amicro",
+      "name": "aMicro",
+      "url": "https://amicro.vercel.app/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/031-amicro.md",
+      "dna": [
+        "Micro-Interactions de Alta Fidelidade",
+        "Tactile Web Haptics (Audio & Vibration)",
+        "Modern Kinetic UI",
+        "Dither & Procedural Canvas Shaders",
+        "Spatial Arc & 3D Card Physics",
+        "Dark Mode Craft Minimal"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Motion 12 (motion/react / framer-motion)",
+        "Tailwind CSS v4 / v3",
+        "TypeScript",
+        "Vite",
+        "Web Audio API",
+        "Shadcn Registry CLI"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "motion-core-dev",
+      "name": "Motion Core",
+      "url": "https://motion-core.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/032-motion-core-dev.md",
+      "dna": [
+        "Dark Craft & Inset Precision",
+        "WebGL & OGL Canvas Systems",
+        "GSAP Timeline Choreography",
+        "Svelte 5 Runes & Snippets Native",
+        "Un-Library Copy-Paste Registry"
+      ],
+      "frameworks": [
+        "Svelte 5 (Runes & Snippets)",
+        "GSAP 3",
+        "OGL (Minimal WebGL)",
+        "Tailwind CSS v4 (OKLCH)",
+        "TypeScript",
+        "Rust-based CLI (@motion-core/cli)"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "sv-animations",
+      "name": "Svelte Animations (sv-animations)",
+      "url": "https://sv-animations.vercel.app/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/033-sv-animations.md",
+      "dna": [
+        "Dark Craft & High-Tech Glow",
+        "Svelte 5 Runes Reactive Motion",
+        "Bioluminescent Lineage & Laser Beams",
+        "Kinetic Typography & Grapheme Segmenting",
+        "Modern SaaS Hero Polish"
+      ],
+      "frameworks": [
+        "Svelte 5 (Runes)",
+        "SvelteKit",
+        "Tailwind CSS v4",
+        "TypeScript",
+        "motion-sv",
+        "bits-ui",
+        "shadcn-svelte CLI",
+        "cobe (WebGL Globe)",
+        "runed"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "tripled-ui",
+      "name": "UI TripleD",
+      "url": "https://ui.tripled.work/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/034-tripled-ui.md",
+      "dna": [
+        "Luminous Frosted Glassmorphism",
+        "Dual-Engine Architecture (Shadcn UI & Base UI)",
+        "Visual Interactive Web Builders (Landing",
+        "Background",
+        "Grid)",
+        "Typing-Reactive Motion Physics",
+        "Vector Automations & Skeuomorphic Tech Tickets"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js 16 / 15",
+        "Tailwind CSS (v3.4 / v4)",
+        "Framer Motion",
+        "Shadcn UI (Radix UI)",
+        "Base UI (@base-ui-components/react)",
+        "Lucide React",
+        "Turborepo"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "inspira-ui",
+      "name": "Inspira UI",
+      "url": "https://www.inspira-ui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/035-inspira-ui.md",
+      "dna": [
+        "Aceternity & Magic UI Aesthetics for Vue",
+        "Dark Mode Micro-Luminescence",
+        "GPU-Accelerated Kinetic Motion",
+        "Tailwind CSS v4 & Vue 3 Composition Architecture"
+      ],
+      "frameworks": [
+        "Vue 3 (Composition API / `<script setup>`)",
+        "Nuxt 3 / Nuxt 4",
+        "Tailwind CSS v4 (@import 'tailwindcss' / @theme)",
+        "Motion-V (Framer Motion for Vue)",
+        "VueUse (@vueuse/core)",
+        "vue-use-spring",
+        "Cobe",
+        "Three.js / TresJS",
+        "clsx / tailwind-merge"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "smoothui-dev",
+      "name": "SmoothUI",
+      "url": "https://smoothui.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/036-smoothui-dev.md",
+      "dna": [
+        "Apple/iOS Spatial Motion",
+        "Fluid Micro-Interactions",
+        "AI-Native Conversational UI",
+        "Minimalist Clean Precision",
+        "Shadcn Registry Architecture"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Next.js (App Router)",
+        "Motion (anteriormente Framer Motion)",
+        "Tailwind CSS (v3 / v4)",
+        "shadcn/ui",
+        "TypeScript",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "serenity-ui",
+      "name": "Serenity UI",
+      "url": "https://www.serenity-ui.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/037-serenity-ui.md",
+      "dna": [
+        "Tactile Neomorphism",
+        "Skeuomorphic Modern Craft",
+        "Multi-Sensory Audio-Visual",
+        "Organic 3D Physicality",
+        "Luminescent Warmth"
+      ],
+      "frameworks": [
+        "React 18/19",
+        "Next.js (App & Pages Router)",
+        "Tailwind CSS (v3/v4)",
+        "Framer Motion",
+        "TypeScript",
+        "Lucide React",
+        "React Icons"
+      ],
+      "densidade": "Media",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "uinice",
+      "name": "UINice",
+      "url": "https://uinice.com/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/038-uinice.md",
+      "dna": [
+        "Vibe Coder Craft",
+        "Modern Minimalist",
+        "Curated Ecosystem",
+        "Terminal & AI Conversational"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "shadcn/ui",
+        "Radix UI",
+        "Model Context Protocol (MCP)"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "nuggetdesign",
+      "name": "Nugget Design",
+      "url": "https://www.nuggetdesign.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/039-nuggetdesign.md",
+      "dna": [
+        "Design Engineering Craft",
+        "OKLCH Perceptual Amber & Multi-tier Surface Scale",
+        "Tactile Pill Chips with Tabular Badges",
+        "Bespoke Collection Mosaics",
+        "Arcade Easter Egg Kinetics",
+        "Clean Editorial Directory"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Vite",
+        "CSS Custom Properties (OKLCH",
+        "LightningCSS)",
+        "Framer Motion",
+        "HTML5 Canvas (Stacker Arcade Engine)",
+        "Clerk Authentication",
+        "Neon Serverless Postgres",
+        "Lucide React"
+      ],
+      "densidade": "Alta",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "snapcn-dev",
+      "name": "Snapcn",
+      "url": "https://snapcn.dev/",
+      "category": "1-components",
+      "schema": "A-components",
+      "file": "knowledge/1-components/040-snapcn-dev.md",
+      "dna": [
+        "Programmatic Video UI",
+        "Kinetic Motion Typography",
+        "Timeline-Driven Shadcn Primitives",
+        "Realistic Device & Cursor Simulation",
+        "AI-Agent Orchestrated Media"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Remotion (@remotion/core",
+        "@remotion/player",
+        "@remotion/cli)",
+        "Tailwind CSS (v3 / v4)",
+        "shadcn/ui Registry Architecture",
+        "TypeScript",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "shadcn-ui",
+      "name": "Shadcn UI",
+      "url": "https://ui.shadcn.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/041-shadcn-ui.md",
+      "dna": [
+        "Modern Craft Minimal",
+        "Radix Headless Architecture",
+        "Semantic Token Theming",
+        "Tailwind v4 Native",
+        "Precision Utility Enterprise"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router / RSC)",
+        "Tailwind CSS v4 & v3",
+        "Radix UI Primitives",
+        "TypeScript",
+        "Lucide React",
+        "React Hook Form",
+        "Zod",
+        "TanStack Table",
+        "Recharts",
+        "Sonner",
+        "Vaul",
+        "cmdk"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "042-shadcn-io",
+      "name": "Shadcn.io",
+      "url": "https://www.shadcn.io/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/042-shadcn-io.md",
+      "dna": [
+        "Modern Clean Craft",
+        "Precision Enterprise SaaS",
+        "Agentic MCP-Native",
+        "Adaptive OKLCH Theming",
+        "Linear & Vercel Polished Aesthetic"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Vue",
+        "Svelte",
+        "Solid",
+        "Tailwind CSS",
+        "Radix UI",
+        "Base UI",
+        "Ark UI",
+        "React Aria",
+        "Recharts",
+        "Framer Motion",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "kibo-ui",
+      "name": "Kibo UI",
+      "url": "https://www.kibo-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/043-kibo-ui.md",
+      "dna": [
+        "Modern Craft Minimal",
+        "B2B Enterprise Density",
+        "High-Functionality Composition",
+        "Shadcn Native Tokens",
+        "Accessible Stateful Workflows"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js",
+        "Tailwind CSS (v3 & v4)",
+        "Radix UI",
+        "Dnd Kit (@dnd-kit)",
+        "TanStack Table",
+        "Jotai",
+        "Date-fns",
+        "Shiki",
+        "Motion (Framer Motion)",
+        "Media Chrome"
+      ],
+      "densidade": "Alta",
+      "impacto": "Moderado a Alto/Showstopper"
+    },
+    {
+      "id": "reui-io",
+      "name": "ReUI",
+      "url": "https://reui.io/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/044-reui-io.md",
+      "dna": [
+        "Enterprise SaaS Precision",
+        "Dual-Primitive Architecture (Base UI & Radix UI)",
+        "Tailwind CSS v4 Native",
+        "TanStack v9 Data Densification",
+        "AI Agent & MCP-First Design",
+        "Copy-and-Own Registry"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router / RSC)",
+        "Tailwind CSS v4",
+        "Radix UI Primitives",
+        "Base UI v1 Primitives",
+        "TanStack Table v9",
+        "TanStack Virtual v3",
+        "dnd-kit",
+        "Shiki",
+        "nuqs",
+        "React Hook Form",
+        "Zod",
+        "Lucide React"
+      ],
+      "densidade": "Alta",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "coss-ui",
+      "name": "Coss UI (Origin UI)",
+      "url": "https://coss.com/ui",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/045-coss-ui.md",
+      "dna": [
+        "Base UI Headless Architecture",
+        "Micro-Craft Form Precision",
+        "Tailwind CSS v4 Native",
+        "Commercial Open Source (COSS)",
+        "Tactile Bevel & Depth Layering",
+        "AI-First Component Particles"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Base UI (@base-ui/react)",
+        "Radix UI Primitives (Origin Legacy)",
+        "Tailwind CSS v4",
+        "TypeScript",
+        "Lucide React",
+        "Motion / Framer Motion",
+        "Tailwind Animate"
+      ],
+      "densidade": "Alta",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "046-minidev-ui",
+      "name": "MiniDev UI",
+      "url": "https://ui.minidev.pro/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/046-minidev-ui.md",
+      "dna": [
+        "Dynamic Physical Lighting",
+        "Material Switching (Hairline",
+        "Glass",
+        "Metal",
+        "Paper)",
+        "Base UI Headless Architecture",
+        "Tailwind CSS v4 & OKLCH",
+        "Craft Precision Product Surfaces"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "Tailwind CSS v4",
+        "Base UI (@base-ui/react)",
+        "Motion (Framer Motion)",
+        "TypeScript",
+        "Lucide React",
+        "TanStack Table v8",
+        "dnd-kit"
+      ],
+      "densidade": "Alta",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "heroui",
+      "name": "HeroUI (anteriormente NextUI)",
+      "url": "https://www.heroui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/047-heroui.md",
+      "dna": [
+        "Modern Polished Glass",
+        "Tactile Spring Motion",
+        "React Aria Accessible",
+        "Tailwind Variants Slotted",
+        "Vibrant Luminescent SaaS"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router / Pages)",
+        "Vite",
+        "Remix",
+        "Astro",
+        "Tailwind CSS v3 & v4",
+        "React Aria (Adobe)",
+        "Tailwind Variants (tv)",
+        "Framer Motion",
+        "HeroUI CLI",
+        "TypeScript"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Moderado"
+    },
+    {
+      "id": "tremor-so",
+      "name": "Tremor / Tremor Raw",
+      "url": "https://www.tremor.so/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/048-tremor-so.md",
+      "dna": [
+        "Modern Data-Dense Analytics",
+        "Vercel / Stripe Metric Rigor",
+        "Tailwind Native Theming",
+        "Recharts Headless Architecture",
+        "Radix Accessible Controls"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router & RSC)",
+        "Tailwind CSS v3 / v4",
+        "Recharts",
+        "Radix UI Primitives",
+        "TypeScript",
+        "@remixicon/react",
+        "clsx",
+        "tailwind-merge"
+      ],
+      "densidade": "Alta",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "hyperui-dev",
+      "name": "HyperUI",
+      "url": "https://www.hyperui.dev/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/049-hyperui-dev.md",
+      "dna": [
+        "Modern Clean Utility",
+        "Retro Neobrutalism",
+        "Zero-JS Semantic HTML",
+        "Tailwind CSS v4 Native",
+        "Radical Copy-Paste Agility"
+      ],
+      "frameworks": [
+        "Tailwind CSS v4 & v3",
+        "HTML5 Semântico",
+        "React (JSX / TSX)",
+        "Vue.js",
+        "Alpine.js (HyperUX)",
+        "Astro / Laravel Blade / Rails ERB"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "050-mambaui",
+      "name": "Mamba UI",
+      "url": "https://www.mambaui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/050-mambaui.md",
+      "dna": [
+        "Modern Tailwind Utility",
+        "Zero-Dependency Modular UI",
+        "Multi-Syntax Markup (HTML/Vue/JSX)",
+        "Dynamic Color Theming",
+        "Responsive Clean Editorial"
+      ],
+      "frameworks": [
+        "Tailwind CSS v3 / v4",
+        "HTML5 Semântico",
+        "React 18 / 19 (JSX/TSX)",
+        "Vue.js 3 / 2",
+        "Next.js (App Router)",
+        "Vite"
+      ],
+      "densidade": "Media",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "preline-co",
+      "name": "Preline UI",
+      "url": "https://www.preline.co/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/051-preline-co.md",
+      "dna": [
+        "Enterprise Clean SaaS",
+        "Utility-First Headless",
+        "Data-Attribute Micro-Interactions",
+        "Production-Ready Dashboards",
+        "Modular Responsive Blocks"
+      ],
+      "frameworks": [
+        "Tailwind CSS v3 & v4",
+        "Vanilla JS / TypeScript",
+        "React",
+        "Next.js (App Router / Pages)",
+        "Vue 3",
+        "Nuxt",
+        "Astro",
+        "Svelte",
+        "Angular",
+        "ApexCharts",
+        "Dropzone",
+        "noUiSlider"
+      ],
+      "densidade": "Alta",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "merakiui",
+      "name": "Meraki UI",
+      "url": "https://www.merakiui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/052-merakiui.md",
+      "dna": [
+        "Clean Functional Minimalism",
+        "Native Bi-Directional RTL",
+        "Accessible Dual Dark Mode",
+        "Alpine.js Headless Micro-Interactions",
+        "Semantic Utility Spacing"
+      ],
+      "frameworks": [
+        "Tailwind CSS v3 / v4",
+        "Alpine.js",
+        "HTML5 Semântico",
+        "React / Next.js compatible",
+        "Laravel Blade compatible",
+        "Vue / Nuxt compatible",
+        "Heroicons",
+        "Coolicons"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "floatui",
+      "name": "Float UI",
+      "url": "https://www.floatui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/053-floatui.md",
+      "dna": [
+        "SaaS Modern Clean",
+        "Ambient Mesh Aura / Glow Gradients",
+        "Accessible Headless Primitives",
+        "Bilingual LTR/RTL Native",
+        "Fluid Copy-Paste Agility"
+      ],
+      "frameworks": [
+        "Tailwind CSS v3 & v4",
+        "React / Next.js",
+        "Radix UI",
+        "Vue.js (Radix Vue)",
+        "Svelte (Melt UI)",
+        "HTML5 Semântico / Alpine.js"
+      ],
+      "densidade": "Media",
+      "impacto": "Moderado"
+    },
+    {
+      "id": "daisyui",
+      "name": "daisyUI",
+      "url": "https://daisyui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/054-daisyui.md",
+      "dna": [
+        "Semantic Utility Hybrid",
+        "OKLCH Perceptual Theming",
+        "Pure CSS Zero-JS Primitives",
+        "Clean Modern SaaS",
+        "Multi-Theme Expressive"
+      ],
+      "frameworks": [
+        "Tailwind CSS v4 & v3",
+        "Pure CSS / Semantic Classes",
+        "HTML5 Native Dialog",
+        "React",
+        "Next.js",
+        "Vue 3",
+        "Svelte",
+        "Astro",
+        "HTMX",
+        "Ruby on Rails",
+        "Laravel / Blade",
+        "Phoenix / LiveView"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "nuxt-ui",
+      "name": "Nuxt UI",
+      "url": "https://ui.nuxt.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/055-nuxt-ui.md",
+      "dna": [
+        "Clean Nuxt Emerald Modernism",
+        "Reka UI Headless Precision",
+        "Tailwind CSS v4 Native OKLCH",
+        "Tailwind Variants Component Slots",
+        "Keyboard-Driven Power User UX"
+      ],
+      "frameworks": [
+        "Nuxt 3 / 4",
+        "Vue 3 (Composition API / Script Setup)",
+        "Tailwind CSS v4 & v3",
+        "Reka UI (antigo Radix Vue)",
+        "Tailwind Variants (tv)",
+        "TanStack Table (@tanstack/vue-table)",
+        "Zod / Valibot",
+        "Iconify (@nuxt/icon)",
+        "TypeScript",
+        "Vite"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "bits-ui",
+      "name": "Bits UI",
+      "url": "https://www.bits-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/056-bits-ui.md",
+      "dna": [
+        "Headless Primitives Architecture",
+        "Svelte 5 Runes Native",
+        "WAI-ARIA Accessibility Core",
+        "Tailwind CSS Token Alignment",
+        "Zero-Runtime Overhead Engineering"
+      ],
+      "frameworks": [
+        "Svelte 5 (Runes & Snippets)",
+        "SvelteKit",
+        "Bits UI v1",
+        "Tailwind CSS v4 & v3",
+        "shadcn-svelte",
+        "TypeScript",
+        "@floating-ui/dom",
+        "@internationalized/date",
+        "Lucide Svelte"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "melt-ui",
+      "name": "Melt UI",
+      "url": "https://melt-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/057-melt-ui.md",
+      "dna": [
+        "Headless Action Architecture",
+        "Zero DOM Element Lock-in",
+        "WAI-ARIA APG Compliance",
+        "Svelte 5 Runes Native",
+        "Unstyled BYOS (Bring Your Own Styles)",
+        "Svelte Native Motion Integration"
+      ],
+      "frameworks": [
+        "Svelte 5",
+        "SvelteKit",
+        "Svelte 4",
+        "melt (Next Runes)",
+        "@melt-ui/svelte",
+        "Tailwind CSS v4 / v3",
+        "TypeScript",
+        "svelte/transition",
+        "svelte/motion",
+        "Floating UI"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "058-skeleton-dev",
+      "name": "Skeleton UI",
+      "url": "https://www.skeleton.dev/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/058-skeleton-dev.md",
+      "dna": [
+        "Adaptive System Design",
+        "Tailwind Semantic Utility",
+        "Multi-Engine Reactive",
+        "High-Contrast Accessible"
+      ],
+      "frameworks": [
+        "Tailwind CSS v4/v3",
+        "Svelte 5",
+        "React",
+        "Zag.js",
+        "TypeScript"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "radix-ui",
+      "name": "Radix UI",
+      "url": "https://www.radix-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/059-radix-ui.md",
+      "dna": [
+        "Headless WAI-ARIA Primitives",
+        "Perceptually Calibrated 12-Step Colors",
+        "Polymorphic Slot Composition (asChild)",
+        "WorkOS Enterprise Craft & macOS Density",
+        "State-Driven Attribute Styling (data-state)"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router / RSC)",
+        "Radix Primitives (@radix-ui/react-*)",
+        "Radix Themes (@radix-ui/themes)",
+        "Radix Colors (@radix-ui/colors)",
+        "Radix Icons (@radix-ui/react-icons)",
+        "Tailwind CSS v4 & v3",
+        "TypeScript",
+        "Framer Motion"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "base-ui",
+      "name": "Base UI",
+      "url": "https://base-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/060-base-ui.md",
+      "dna": [
+        "Next-Gen Headless Architecture",
+        "CSS Native Starting-Style Transitions",
+        "Pointer-Lock Scrub Interaction",
+        "Decoupled Geometry & Visual Surface",
+        "Zero-CloneElement Render Delegation"
+      ],
+      "frameworks": [
+        "React 19",
+        "React 18",
+        "Next.js (App Router)",
+        "@base-ui/react",
+        "Tailwind CSS v4 & v3",
+        "Floating UI",
+        "TypeScript"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "react-aria",
+      "name": "React Aria",
+      "url": "https://www.react-aria.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/061-react-aria.md",
+      "dna": [
+        "Headless Engineering Core",
+        "WAI-ARIA Gold Standard",
+        "Enterprise Internationalization",
+        "State-Driven Data Attributes",
+        "Cross-Device Input Normalization"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "React Aria Components",
+        "React Stately",
+        "@internationalized/date",
+        "@internationalized/number",
+        "Tailwind CSS v4 & v3",
+        "tailwindcss-react-aria-components"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "ark-ui",
+      "name": "Ark UI",
+      "url": "https://www.ark-ui.com/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/062-ark-ui.md",
+      "dna": [
+        "Finite State Machine Architecture (Zag.js)",
+        "Universal Multi-Framework Parity (React",
+        "Vue",
+        "Svelte",
+        "Solid)",
+        "Headless Functional Anatomy (data-scope & data-part)",
+        "High-Fidelity Complex Primitives (Tour",
+        "SignaturePad",
+        "QR",
+        "ColorPicker)",
+        "Zero-Runtime Unstyled Infrastructure",
+        "Enterprise W3C WAI-ARIA APG Compliance"
+      ],
+      "frameworks": [
+        "React 19 / 18 (@ark-ui/react)",
+        "Vue 3 (@ark-ui/vue)",
+        "Svelte 5 / 4 (@ark-ui/svelte)",
+        "SolidJS (@ark-ui/solid)",
+        "Zag.js (@zag-js/*)",
+        "Panda CSS",
+        "Park UI",
+        "Tailwind CSS v4 & v3",
+        "TypeScript",
+        "Framer Motion"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Utilitario/Base"
+    },
+    {
+      "id": "framer-components",
+      "name": "Framer Marketplace Components",
+      "url": "https://www.framer.com/marketplace/components",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/063-framer-components.md",
+      "dna": [
+        "High-End Motion Craft",
+        "Micro-Interaction Polish",
+        "Kinetic Typography",
+        "WebGL & Canvas Shaders",
+        "Inertial Spring Physics",
+        "Canvas-to-Code Bridge"
+      ],
+      "frameworks": [
+        "React 18 / 19",
+        "Framer Motion (motion/react)",
+        "TypeScript",
+        "Tailwind CSS v4",
+        "Three.js / React Three Fiber",
+        "GLSL / Canvas 2D",
+        "Lucide React"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "framer-marketplace",
+      "name": "Framer Marketplace",
+      "url": "https://www.framer.com/marketplace/",
+      "category": "2-design-systems",
+      "schema": "A-components",
+      "file": "knowledge/2-design-systems/064-framer-marketplace.md",
+      "dna": [
+        "High-End Motion Craft",
+        "Dark Polish & Glass Radiance",
+        "Interactive Bento Architectures",
+        "Spring-Driven Physics",
+        "WebGL Shader Integration"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Framer Motion",
+        "Framer Canvas Engine",
+        "Framer Plugin API",
+        "Tailwind CSS",
+        "TypeScript",
+        "Three.js / WebGL",
+        "Rive Runtime",
+        "Spline Web"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Alto/Showstopper"
+    },
+    {
+      "id": "motion-dev",
+      "name": "Motion (motion.dev)",
+      "url": "https://motion.dev/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/065-motion-dev.md",
+      "dna": [
+        "Physics-Driven Spring Fluidity",
+        "FLIP Layout Projection",
+        "GPU Off-Thread WAAPI",
+        "Declarative Micro-Gestures",
+        "Kinetic Orchestration"
+      ],
+      "frameworks": [
+        "React 19 / 18 (motion/react)",
+        "Vanilla JS / TypeScript (motion)",
+        "Vue (motion-v)",
+        "Next.js (App Router / RSC)",
+        "Tailwind CSS v4 & v3"
+      ],
+      "densidade": "Flexivel",
+      "impacto": "Sutil/Invisivel a Moderado (Feel & Choreography)"
+    },
+    {
+      "id": "motion-examples",
+      "name": "Motion Examples",
+      "url": "https://motion.dev/examples",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/066-motion-examples.md",
+      "dna": [
+        "Fluid Spring Physics",
+        "Layout Projection / FLIP Invariance",
+        "Kinetic Typography & Stagger",
+        "Scroll-Linked Choreography",
+        "Tactile Gesture Inertia",
+        "Shared Element Morphing"
+      ],
+      "frameworks": [
+        "React (motion/react v12+)",
+        "Vanilla JavaScript (motion)",
+        "Vue (motion/vue)",
+        "Svelte",
+        "Tailwind CSS v4 & v3",
+        "Three.js / WebGL",
+        "Lenis Smooth Scroll"
+      ],
+      "densidade": "Independente",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "motion-ui",
+      "name": "Motion UI",
+      "url": "https://motion.dev/ui/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/067-motion-ui.md",
+      "dna": [
+        "Hardware-Accelerated Physics",
+        "Headless Kinetic Primitives",
+        "Progressive Curtains & Spatial Reveals",
+        "Subtle Magnetic & Tactile Feedback",
+        "Intelligent Typography Morphing"
+      ],
+      "frameworks": [
+        "React 19 / React 18",
+        "Vue 3",
+        "Vanilla JS / TypeScript",
+        "Tailwind CSS (v3 / v4)",
+        "Motion (v12 / motion-plus)"
+      ],
+      "densidade": "Media",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "react-spring",
+      "name": "React Spring",
+      "url": "https://www.react-spring.dev/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/068-react-spring.md",
+      "dna": [
+        "Hooke's Law Physics",
+        "Natural Damped Oscillations",
+        "Direct DOM Mutation",
+        "Multi-Target Agnostic (Web/Three/Native)",
+        "Fluid Gesture Momentum",
+        "Zero-Reconciliation Frame Loop"
+      ],
+      "frameworks": [
+        "React (v18",
+        "v19)",
+        "Three.js / React Three Fiber (@react-spring/three)",
+        "@use-gesture/react",
+        "React Native (@react-spring/native)",
+        "Konva (@react-spring/konva)",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
+      "densidade": "Independente",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "gsap",
+      "name": "GSAP (GreenSock Animation Platform)",
+      "url": "https://gsap.com/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/069-gsap.md",
+      "dna": [
+        "Orchestrated Timeline Choreography",
+        "Scroll-Driven Pin & Scrub",
+        "FLIP Layout Morphing",
+        "Kinetic Typography & Splitting",
+        "Sub-pixel Vector Warping",
+        "Micro-Latency Pointer Tracking"
+      ],
+      "frameworks": [
+        "Vanilla JS / TypeScript",
+        "React 19 / 18 (@gsap/react)",
+        "Vue (GSAP Core)",
+        "Svelte",
+        "Next.js (App Router)",
+        "Three.js / WebGL / R3F",
+        "Canvas 2D / Pixi.js"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper a Sutil/Invisivel (Feel)"
+    },
+    {
+      "id": "gsap-showcase",
+      "name": "GSAP Showcase (GreenSock)",
+      "url": "https://gsap.com/showcase/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/070-gsap-showcase.md",
+      "dna": [
+        "Cinematic Scrollytelling",
+        "Deterministic Timeline Orchestration",
+        "Pinned Multi-Axis Choreography",
+        "Kinetic Split Masking",
+        "FLIP Layout Projection",
+        "WebGL Canvas Integration"
+      ],
+      "frameworks": [
+        "GSAP 3",
+        "ScrollTrigger",
+        "Flip",
+        "SplitText",
+        "Observer",
+        "Draggable",
+        "Three.js / WebGL",
+        "React (@gsap/react)",
+        "Lenis / ScrollSmoother",
+        "TypeScript / Tailwind CSS"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "lenis-scroll",
+      "name": "Lenis Smooth Scroll",
+      "url": "https://lenis.darkroom.engineering/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/071-lenis-scroll.md",
+      "dna": [
+        "Native-Preserving Smooth Momentum",
+        "Unified Kinetic Physics",
+        "Sub-Pixel LERP Interpolation",
+        "Hardware-Synced Scrolling",
+        "WebGL/DOM Choreography"
+      ],
+      "frameworks": [
+        "Vanilla JS / TypeScript (lenis)",
+        "React (lenis/react)",
+        "Next.js (App Router / RSC)",
+        "Vue (lenis/vue)",
+        "Svelte",
+        "GSAP / ScrollTrigger",
+        "Three.js / React Three Fiber"
+      ],
+      "densidade": "Independente",
+      "impacto": "Sutil/Invisivel (Feel) a Cinematografico"
+    },
+    {
+      "id": "scroll-driven-animations",
+      "name": "Scroll-Driven Animations (W3C CSS & WAAPI Spec)",
+      "url": "https://scroll-driven-animations.style/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/072-scroll-driven-animations.md",
+      "dna": [
+        "Compositor-Thread Native Scrubbing",
+        "Zero-JS Kinetic Feedback",
+        "Off-Main-Thread Parallax & Stacking",
+        "Declarative Viewport Intersections",
+        "GPU Hardware-Accelerated Timelines"
+      ],
+      "frameworks": [
+        "CSS Nativo (W3C CSS Animations Level 2 & Scroll-driven Animations Level 1)",
+        "Web Animations API (WAAPI ScrollTimeline / ViewTimeline)",
+        "Vanilla JS / TypeScript",
+        "React 19 / 18",
+        "Tailwind CSS (v3 / v4)",
+        "Polyfill (flackr/scroll-timeline)"
+      ],
+      "densidade": "Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "codrops",
+      "name": "Codrops (Tympanus)",
+      "url": "https://tympanus.net/codrops/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/073-codrops.md",
+      "dna": [
+        "Experimental Creative Engineering",
+        "FLIP Layout Morphing",
+        "WebGL Shader Distortions",
+        "Kinetic Typography & Text Reveal",
+        "SVG Filter & Gooey Physics",
+        "Interactive Cursor & Mouse Trails"
+      ],
+      "frameworks": [
+        "Vanilla JavaScript / TypeScript",
+        "GSAP (Flip",
+        "ScrollTrigger",
+        "SplitText)",
+        "Three.js / WebGL / GLSL",
+        "Lenis Smooth Scroll",
+        "Curtains.js / OGL",
+        "SVG Filters (feDisplacementMap",
+        "feColorMatrix)"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "codrops-playground",
+      "name": "Codrops Playground (Experimental WebGL, Shaders & Creative Interactions)",
+      "url": "https://tympanus.net/codrops/category/playground/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/074-codrops-playground.md",
+      "dna": [
+        "DOM-to-WebGL Hybrid Sync",
+        "Fluid Physics & Flowmaps",
+        "Kinetic Typography Shaders",
+        "Chromatic Dispersion & RGB Shift",
+        "Infinite Toroidal Grids",
+        "SVG Filter Displacement",
+        "Organic Navier-Stokes Distortion"
+      ],
+      "frameworks": [
+        "Three.js",
+        "Curtains.js",
+        "OGL",
+        "GSAP 3 (ScrollTrigger)",
+        "Lenis / Locomotive Scroll",
+        "GLSL (Custom Vertex/Fragment)",
+        "React / React Three Fiber",
+        "SVG Filters (feDisplacementMap)"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "hover-dev",
+      "name": "Hover.dev (Animated UI Components for React & Tailwind)",
+      "url": "https://www.hover.dev/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/075-hover-dev.md",
+      "dna": [
+        "Tactile Cursor Tracking",
+        "Spring Physics & Inertia",
+        "3D Perspective Tilting",
+        "Clip-Path Mask Transitions",
+        "Cyber-Clean Kinetic Delight",
+        "Morphing Surface Layouts"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Framer Motion / Motion",
+        "Tailwind CSS v3 / v4",
+        "TypeScript",
+        "Lucide React"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "designspells",
+      "name": "Design Spells",
+      "url": "https://www.designspells.com/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/076-designspells.md",
+      "dna": [
+        "Tactile Micro-Interactions",
+        "Playful Easter Eggs",
+        "Physical Spring Dynamics",
+        "Skeuomorphic Touchpoints",
+        "Contextual Feedback & Sound/Haptics",
+        "Whimsical Craft & Delight"
+      ],
+      "frameworks": [
+        "React",
+        "Motion.dev / Framer Motion",
+        "Tailwind CSS",
+        "Canvas API / canvas-confetti",
+        "Web Audio API",
+        "Web Animations API (WAAPI)",
+        "Lucide Icons"
+      ],
+      "densidade": "Independente",
+      "impacto": "Sutil/Invisivel (Feel) a Moderado (com picos de Espetaculo em Easter Eggs)"
+    },
+    {
+      "id": "uimotion-fyi",
+      "name": "UI Motion (.fyi)",
+      "url": "https://uimotion.fyi/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/077-uimotion-fyi.md",
+      "dna": [
+        "Spatial Continuity",
+        "Direct Manipulation & Real-Time Inertia",
+        "Tactile Micro-Interactions",
+        "Physical Spring Dynamics",
+        "Contextual Shared Morphing",
+        "High-End Product Decoding"
+      ],
+      "frameworks": [
+        "CSS3 Moderno",
+        "Framer Motion / Motion.dev",
+        "React",
+        "Vanilla JavaScript (WAAPI)",
+        "Tailwind CSS"
+      ],
+      "densidade": "Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "60fps-design",
+      "name": "60fps Design",
+      "url": "https://www.60fps.design/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/078-60fps-design.md",
+      "dna": [
+        "Native Mobile Physics",
+        "60fps/120fps Fluidity",
+        "Spring-Driven Micro-Interactions",
+        "Tactile Gesture Mechanics",
+        "Zero-Jank Compositor Animations",
+        "Choreographed Transitions"
+      ],
+      "frameworks": [
+        "React",
+        "Motion.dev / Framer Motion",
+        "Tailwind CSS",
+        "SwiftUI / React Native",
+        "Web Animations API (WAAPI)",
+        "Lucide Icons"
+      ],
+      "densidade": "Independente",
+      "impacto": "Sutil/Invisivel (Feel) a Moderado (com picos de Espetáculo em Onboardings e Confirmações)"
+    },
+    {
+      "id": "transitions-dev",
+      "name": "Transitions.dev (UI Transitions & View Transitions Architecture)",
+      "url": "https://transitions.dev/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/079-transitions-dev.md",
+      "dna": [
+        "Micro-Focal Cross-Blur",
+        "Asymmetric Timing & Easing",
+        "Origin-Aware Spatial Anchoring",
+        "Hardware-Accelerated View Transitions",
+        "FLIP Surface Morphing",
+        "Craft Kinetic Physics"
+      ],
+      "frameworks": [
+        "CSS Nativo (CSS Custom Properties & Tokens)",
+        "View Transitions API (Level 1 & Level 2)",
+        "Vanilla TypeScript / JavaScript",
+        "React 19 / 18",
+        "Next.js / Astro / Remix",
+        "Tailwind CSS (v3 / v4)",
+        "AI Agent Skill (transitions-dev)"
+      ],
+      "densidade": "Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "eased-dev",
+      "name": "Eased (Eased.dev)",
+      "url": "https://eased.dev/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/080-eased-dev.md",
+      "dna": [
+        "Mathematical Easing Curvature",
+        "Native CSS linear() Springs",
+        "Asymmetric Enter/Exit Physics",
+        "Micro-Interaction Tactility",
+        "Zero-JS Compositor Transitions",
+        "Hydration-Safe Dynamic Orchestration"
+      ],
+      "frameworks": [
+        "React 19",
+        "Tailwind CSS v4 (@theme inline & @utility)",
+        "Motion (motion/react v12)",
+        "Base UI (@base-ui/react)",
+        "CSS Animations & Transitions Level 2",
+        "Shadcn CLI Registry",
+        "MCP (Model Context Protocol)"
+      ],
+      "densidade": "Alta",
+      "impacto": "Sutil/Invisivel (Feel) a Moderado"
+    },
+    {
+      "id": "jitter-video",
+      "name": "Jitter (Jitter.video — Motion Design Engine & UI Animation Platform)",
+      "url": "https://jitter.video/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/081-jitter-video.md",
+      "dna": [
+        "Bento Grid Product Demos",
+        "Snappy Overshoot & Impulse Curves",
+        "Morphing UI Cards",
+        "Kinetic Typography Waves",
+        "Vector Lottie & Transparent WebM Alpha",
+        "Choreographed Micro-Interactions"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Framer Motion (Motion.dev)",
+        "DotLottie / Lottie Web",
+        "Tailwind CSS v3 / v4",
+        "HTML5 Transparent WebM (VP9 Alpha) / MP4",
+        "TypeScript"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "rive-app",
+      "name": "Rive (Rive.app — Real-Time Interactive Vector Animation & State Machine Engine)",
+      "url": "https://rive.app/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/082-rive-app.md",
+      "dna": [
+        "State Machine Logic",
+        "Hardware-Accelerated Vector Graphics",
+        "Skeletal Rigging & Inverse Kinematics",
+        "Mesh Deformation & Skinning",
+        "Data-Bound Dynamic Graphics",
+        "Zero-Lag Haptic Micro-Interactions"
+      ],
+      "frameworks": [
+        "React 19 / 18 (@rive-app/react-canvas",
+        "@rive-app/react-webgl2)",
+        "Next.js App Router",
+        "TypeScript",
+        "Tailwind CSS v4 / v3",
+        "WebAssembly (Wasm)",
+        "Flutter / iOS / Android / C++ / Unreal / Unity"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Moderado a Cinematografico/Showstopper"
+    },
+    {
+      "id": "lottiefiles",
+      "name": "LottieFiles (dotLottie, WebAssembly/ThorVG Runtime & Interactive Vector Motion)",
+      "url": "https://lottiefiles.com/",
+      "category": "3-motion",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/3-motion/083-lottiefiles.md",
+      "dna": [
+        "Vector Fidelity Motion",
+        "ThorVG WebAssembly Rendering",
+        "dotLottie ZIP Container",
+        "State Machine Interactivity",
+        "Micro-Interactions & Empty States",
+        "Dynamic Color Slot Theming"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "@lottiefiles/dotlottie-react",
+        "@lottiefiles/dotlottie-web",
+        "ThorVG (C++ / WebAssembly)",
+        "dotlottie-rs (Rust Core)",
+        "Tailwind CSS v4",
+        "TypeScript"
+      ],
+      "densidade": "Media a Alta",
+      "impacto": "Sutil/Invisivel (Feel) a Cinematografico/Showstopper"
+    },
+    {
+      "id": "084-shaders-paper-design",
+      "name": "Paper Design Shaders (@paper-design/shaders & @paper-design/shaders-react)",
+      "url": "https://shaders.paper.design/",
+      "category": "4-shaders-3d",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/4-shaders-3d/084-shaders-paper-design.md",
+      "dna": [
+        "Zero-Dependency WebGL2 Architecture",
+        "High-End Procedural Noise (Simplex",
+        "Perlin",
+        "Voronoi)",
+        "Analog Grain & Dithering Textures",
+        "Domain Warping & Fluid Mesh Dynamics",
+        "Optical Glass Refraction & Liquid Metal Dispersion",
+        "Resource-Aware RAF Throttling (IntersectionObserver / Visibility API)"
+      ],
+      "frameworks": [
+        "Vanilla JavaScript / TypeScript (@paper-design/shaders)",
+        "React 18/19 (@paper-design/shaders-react)",
+        "Next.js (App Router / Client Component)",
+        "WebGL 2.0 (GLSL ES 3.00)",
+        "Tailwind CSS v4",
+        "Motion.dev / Framer Motion"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "shaders-com",
+      "name": "Shaders.com (Shader Effects Inc.)",
+      "url": "https://shaders.com/",
+      "category": "4-shaders-3d",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/4-shaders-3d/085-shaders-com.md",
+      "dna": [
+        "Procedural WebGPU/WebGL",
+        "Domain Warping & FBM Fluidity",
+        "Optical Dispersion & Chromatic Aberration",
+        "Glass Refraction & Liquid Surfaces",
+        "Procedural Dithering & Halftones",
+        "Pointer & Audio Reactive Fields"
+      ],
+      "frameworks": [
+        "WebGPU (WGSL)",
+        "WebGL 2.0 / 1.0 (GLSL)",
+        "React (shaders/react)",
+        "Vue (shaders/vue)",
+        "Svelte (shaders/svelte)",
+        "Solid (shaders/solid)",
+        "Vanilla JavaScript / Canvas API",
+        "Framer Plugin"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "shadergradient",
+      "name": "ShaderGradient",
+      "url": "https://shadergradient.co/",
+      "category": "4-shaders-3d",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/4-shaders-3d/086-shadergradient.md",
+      "dna": [
+        "Organic WebGL Surface",
+        "Parametric Fluid Dynamics",
+        "Ray-Lit Chromatic Iridescence",
+        "Perlin Vertex Displacement",
+        "Cinematic Grain Texturing"
+      ],
+      "frameworks": [
+        "React (@shadergradient/react)",
+        "Three.js",
+        "@react-three/fiber",
+        "@react-spring/three",
+        "Next.js (Dynamic SSR: false)",
+        "Framer (ShaderGradient Component)",
+        "Figma"
+      ],
+      "densidade": "Baixa a Independente (Camada de Fundo & Objeto Escultural)",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "threejs-examples",
+      "name": "Three.js Examples & Canonical Techniques",
+      "url": "https://threejs.org/examples/",
+      "category": "4-shaders-3d",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/4-shaders-3d/087-threejs-examples.md",
+      "dna": [
+        "Physically Based Rendering (PBR)",
+        "Sub-Surface Optical Refraction",
+        "Hardware-Accelerated Instancing",
+        "Cinematic Post-Processing Glare",
+        "Volumetric Light Transport",
+        "Node-Based Shader Graph (TSL)",
+        "Spatial Scrollytelling Choreography"
+      ],
+      "frameworks": [
+        "Three.js (r160+)",
+        "WebGPURenderer & TSL (Three Shading Language)",
+        "React Three Fiber (@react-three/fiber)",
+        "@react-three/drei",
+        "@react-three/postprocessing",
+        "three-mesh-bvh",
+        "three-subdivide",
+        "DRACOLoader / KTX2Loader"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "088-vfx-js",
+      "name": "VFX-JS (@vfx-js/core)",
+      "url": "https://www.vfx-js.com/",
+      "category": "4-shaders-3d",
+      "schema": "B-motion-shaders",
+      "file": "knowledge/4-shaders-3d/088-vfx-js.md",
+      "dna": [
+        "DOM-Integrated WebGL Post-Processing",
+        "Single-Canvas Multi-Element Orchestration",
+        "Retro-Digital Glitch & Chromatic Aberration",
+        "Intersection-Driven Shader Transitions",
+        "Hardware-Accelerated HTML Typography"
+      ],
+      "frameworks": [
+        "Vanilla JS / TypeScript (@vfx-js/core)",
+        "React (@vfx-js/react)",
+        "Vue",
+        "WebGL2 / GLSL 300 es",
+        "CSS3"
+      ],
+      "densidade": "Independente",
+      "impacto": "Cinematografico/Showstopper"
+    },
+    {
+      "id": "motionsites-ai",
+      "name": "MotionSites AI",
+      "url": "https://motionsites.ai/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/089-motionsites-ai.md",
+      "dna": [
+        "Dark Craft Editorial",
+        "Cinematic Video/Shader Loops",
+        "Kinetic Radial Gradients",
+        "Anti-AI-Slop Curation",
+        "Precision Bento Grids",
+        "Iridescent Glassmorphism",
+        "Prompt-Engineered Motion UI"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion / Motion.dev",
+        "Three.js / React Three Fiber",
+        "Lenis Scroll",
+        "Lucide Icons",
+        "Supabase / MCP Protocol"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "getlayers-ai",
+      "name": "GetLayers AI & Layers Community (High-Craft UI Design)",
+      "url": "https://www.getlayers.ai/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/090-getlayers-ai.md",
+      "dna": [
+        "High-Craft UI Design",
+        "Modern Tactile Skeuomorphism",
+        "Layered Bento Grids",
+        "Cinematic AI WebGL",
+        "OKLCH Obsidian & Specular Hairlines"
+      ],
+      "frameworks": [
+        "React 19 / 18",
+        "Next.js (App Router)",
+        "Tailwind CSS v4 & v3",
+        "Framer Motion",
+        "Three.js / React Three Fiber",
+        "GLSL Shaders",
+        "GetLayers MCP (`https://mcp.getlayers.ai/mcp`)"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "details-so-vault",
+      "name": "Details.so Vault",
+      "url": "https://www.details.so/vault",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/091-details-so-vault.md",
+      "dna": [
+        "Precision Tactile Craft",
+        "Warm Obsidian Dark UI",
+        "Layered Micro-Shadows & Inset Glows",
+        "Superellipse Geometry (Squircle)",
+        "Kinetic Spring Feedback & Micro-Interactions",
+        "AI-Native Component Vault"
+      ],
+      "frameworks": [
+        "Astro v6",
+        "React 19 / 18",
+        "Tailwind CSS v4",
+        "Motion (Framer Motion) / Motion One",
+        "Swup Page Transitions",
+        "Vanilla JS / Webflow",
+        "Model Context Protocol (MCP)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "details-so-free",
+      "name": "Details.so Vault — Free Category",
+      "url": "https://www.details.so/vault/category/free",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/092-details-so-free.md",
+      "dna": [
+        "Open Precision Craft",
+        "Warm Obsidian Dark UI",
+        "Layered Micro-Shadows & Inset Glows",
+        "Superellipse Geometry (Squircle)",
+        "Kinetic Spring Feedback & Micro-Interactions",
+        "Production-Ready Component Recipes",
+        "AI-Native Open Vault"
+      ],
+      "frameworks": [
+        "Astro v6",
+        "React 19 / 18",
+        "Tailwind CSS v4",
+        "Motion (Framer Motion) / Motion One",
+        "Swup Page Transitions",
+        "Vanilla JS / Webflow",
+        "Model Context Protocol (MCP)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "awwwards",
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/093-awwwards.md",
+      "dna": [
+        "Award-Winning WebGL",
+        "Avant-Garde Kinetic Editorial",
+        "Experimental Interactive Storytelling",
+        "High-End Luxury Micro-Interactions",
+        "Fluid Inertial Motion & Smooth Scroll",
+        "Dark Void & Architectural Off-White Canvas",
+        "Liquid Shader Distortion & Particle Physics"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Three.js / React Three Fiber",
+        "GSAP / ScrollTrigger / SplitText",
+        "Lenis Scroll",
+        "Tailwind CSS",
+        "GLSL / Shaders",
+        "Web Audio API",
+        "Nuxt / Vue",
+        "Barba.js"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Experimental/Imersivo"
+    },
+    {
+      "id": "cssdesignawards",
+      "name": "CSS Design Awards",
+      "url": "https://www.cssdesignawards.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/094-cssdesignawards.md",
+      "dna": [
+        "Award-Winning Holistic Web Design",
+        "Balanced UI/UX/Innovation Trinity",
+        "Kinetic Responsive Craftsmanship",
+        "Refined Agency Showcase",
+        "Subtle WebGL & Micro-Interaction Synergy",
+        "Tactile Typography & Asymmetric Grids"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "GSAP / ScrollTrigger",
+        "Framer Motion",
+        "Three.js / WebGL",
+        "Lenis Scroll",
+        "SVG Morphing",
+        "Webflow"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "csswinner",
+      "name": "CSS Winner",
+      "url": "https://www.csswinner.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/095-csswinner.md",
+      "dna": [
+        "Pragmatic Award-Winning Web Design",
+        "Commercial Visual Craft",
+        "High-Converting Aesthetic Balance",
+        "Clean Editorial Modular Layout",
+        "Fast-Loading Kinetic DOM",
+        "Purposeful Micro-Interactions",
+        "Quad-Score Telemetry (Design",
+        "Usability",
+        "Functionality",
+        "Content)"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "GSAP / ScrollTrigger",
+        "Lenis Scroll",
+        "SVG Motion",
+        "Webflow",
+        "Vite"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "siteinspire",
+      "name": "Siteinspire",
+      "url": "https://www.siteinspire.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/096-siteinspire.md",
+      "dna": [
+        "Swiss International Typographic Style",
+        "Austere Architectural Grid & 1px Hairline Systems",
+        "Quiet Luxury & High-Fashion Editorial Curation",
+        "Extreme Negative Space & Visual Breathing Room",
+        "Subdued Monochromatic & Warm Gallery Stone Canvas",
+        "Anti-Gimmick Functional Craftsmanship",
+        "Dual-View Archival Navigation (Grid vs. Dense Index Table)"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR / SSG)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (arbitrary values, subgrid, hair-lines)",
+        "Framer Motion / Motion.dev (molas com alto damping, transições instantâneas de opacidade)",
+        "Radix UI / Headless UI (estruturas despidas de ornamentos)",
+        "Shopify Storefront API / Sanity.io / Craft CMS (para catálogos editoriais de luxo)"
+      ],
+      "densidade": "Baixa/Contemplativa a Media/Narrativa",
+      "impacto": "Minimalista/Silencioso & Editorial/Sofisticado"
+    },
+    {
+      "id": "recent-design",
+      "name": "Recent Design",
+      "url": "https://recent.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/097-recent-design.md",
+      "dna": [
+        "Modern Dark Craft & Precision High-Tech UI",
+        "Design Engineer & Real-Product Interaction Curation",
+        "Linear / Vercel / Raycast Contemporary Aesthetic",
+        "Ultra-Refined 1px Micro-Hairlines & Specular Sheen Gradients",
+        "Dense Bento Grid Architecture & Interactive Micro-Components",
+        "Video-on-Hover Masonry Feed with Hardware-Accelerated Playback",
+        "Technical Monospace & Neo-Grotesk Typographic Harmony",
+        "Curated Artifact Taxonomy (Launch Videos, OG Images, App Store, App Icons)"
+      ],
+      "frameworks": [
+        "Next.js (App Router / React 19 Server Components)",
+        "React / Vite / ESM Nativo",
+        "StyleX (Meta's Zero-Runtime CSS-in-JS Compiler)",
+        "Tailwind CSS v3/v4 (arbitrary values, micro-borders, subgrid)",
+        "Base UI / Radix UI Primitives (Accessible Unstyled Dialogs & Toolbars)",
+        "Motion.dev / Framer Motion (Molas criticas com damping alto, physics-based springs)",
+        "Visitors Analytics (`visitors.now` privacy-first telemetry)"
+      ],
+      "densidade": "Alta/Utilitaria e Dinamica",
+      "impacto": "Editorial/Sofisticado & Tecnico/Imersivo"
+    },
+    {
+      "id": "godly-design",
+      "name": "Godly",
+      "url": "https://godly.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/098-godly-design.md",
+      "dna": [
+        "Dark Mode de Luxo & Obsidian Glassmorphism",
+        "Estética Tátil & Neomorfismo Cirúrgico de Alta Fidelidade",
+        "Linear/Vercel/Apple Keynote Design Language",
+        "Cinematic Hover-Video Previews (Vídeo Dinâmico em Tempo Real)",
+        "Tipografia Neo-Grotesca de Impacto com Tracking Negativo Rigoroso",
+        "Iluminação Especular Direcional (Ambient Glow, Border Beams & Radial Cones)",
+        "Curadoria Granular por Seções Anatômicas (Hero, CTA, Footer, Navbars)"
+      ],
+      "frameworks": [
+        "Astro / Blume Docs Engine (SSR & Static Islands)",
+        "Next.js (App Router) & React 19",
+        "Tailwind CSS v3 / v4 (Arbitrary values, backdrop-filters, custom utilities)",
+        "Framer Motion / Motion.dev (Spring physics, layout animations, exit transitions)",
+        "Three.js / React Three Fiber / WebGL (Accents 3D e texturas procedurais)",
+        "PostHog & Measured Analytics (Telemetria leve orientada à privacidade)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Experimental/Imersivo & Editorial/Sofisticado"
+    },
+    {
+      "id": "a1-gallery",
+      "name": "A1 Gallery",
+      "url": "https://www.a1.gallery/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/099-a1-gallery.md",
+      "dna": [
+        "High-Converting Modern SaaS & AI Product Curation",
+        "Bento Grid System & Modular Component Architecture",
+        "Subtle Dark Mode Surface Layering & Hairline Borders",
+        "Frictionless Conversion Flow & Granular Section Indexing",
+        "AI-Agent-Native Design Data via Model Context Protocol (MCP)",
+        "Crisp Neo-Grotesk & Modern Display Typography"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR / Static ISR)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (arbitrary values, hairline border systems)",
+        "Framer Motion / Motion.dev (molas com alta precisão e damping calibrado)",
+        "Radix UI / Headless UI (primitivas semânticas e acessíveis)",
+        "Model Context Protocol (a1-mcp / Streamable HTTP para AI Agents)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Tecnologico/Funcional"
+    },
+    {
+      "id": "lapa-ninja",
+      "name": "Lapa Ninja",
+      "url": "https://www.lapa.ninja/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/100-lapa-ninja.md",
+      "dna": [
+        "High-Converting SaaS & Tech Commercial Product Design",
+        "Full-Page End-to-End Conversion Funnel Anatomy",
+        "Modern Bento Grid Modular Architecture",
+        "Ultra-Granular Multi-Industry Taxonomy (84 Vertical Niches)",
+        "Multi-Chromatic Color Indexing (18 Color Channels)",
+        "Real-World Live Web Archive with Typeface & Tech Stack Detection",
+        "Micro-Component Decomposition (Website Sections Library)",
+        "Open Graph Social Meta Card Curation (1200x630 Gallery)"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR / SSG)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (Arbitrary values, container queries, CSS variables)",
+        "Framer Motion / Motion.dev (molas táteis, layout animations e micro-interações)",
+        "Framer / Webflow (plataformas nativas amplamente indexadas)",
+        "Astro / Vite / Radix UI / Shadcn UI"
+      ],
+      "densidade": "Alta/Utilitaria a Media/Narrativa",
+      "impacto": "Editorial/Sofisticado & High-Converting Commercial"
+    },
+    {
+      "id": "101-land-book",
+      "name": "Land-book",
+      "url": "https://land-book.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/101-land-book.md",
+      "dna": [
+        "High-Converting Modern SaaS & Product Presentation",
+        "Full-Page Holistic Architecture & Scroll Cadence",
+        "Multifaceted Taxonomic Dissection (Industry × Style × Element × Color)",
+        "Bento Grid Modularity & Visual Feature Deconstruction",
+        "Subtle Ambient Glows & Specular Border Hairlines",
+        "Mobile-Desktop Viewport Parity & Full-Height Screenshots",
+        "Craft-First Commercial Web Design (Framer, Webflow, Next.js Ecosystems)"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR / SSG)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (arbitrary values, container queries, subgrid, modern shadows)",
+        "Framer Motion / Motion.dev (molas calibradas para interação táctil, layout animations)",
+        "Radix UI / Headless UI / Lucide React (primitivos acessíveis de alta conversão)",
+        "Framer / Webflow (fontes primárias de blueprints visuais catalogados)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Modern Commercial Tech"
+    },
+    {
+      "id": "102-onepagelove",
+      "name": "One Page Love",
+      "url": "https://onepagelove.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/102-onepagelove.md",
+      "dna": [
+        "Single-Page Narrative & Frictionless Continuous Scroll",
+        "High-Velocity Conversion & Radical Information Focus",
+        "Section-Level Modular Deconstruction (9,300+ Crops Archive)",
+        "Craft-First Micro-SaaS, Personal Portfolios & Product Launches",
+        "Human-Curated Typography & Typographic Specimen Showcases",
+        "Clean Floating Island Navigation & Anchor Synced Scrolling",
+        "AI-Native Integration (Official MCP Server & REST API)"
+      ],
+      "frameworks": [
+        "Next.js (App Router, SSG/SSR)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (container queries, CSS variables, subgrid)",
+        "Framer Motion / Motion.dev (layout animations, micro-springs tátil)",
+        "Radix UI / Headless UI / Lucide React (acessibilidade ARIA nativa)",
+        "Framer / Webflow / Carrd (ecossistemas dominantes de prototipagem e publicação de landing pages)"
+      ],
+      "densidade": "Media/Narrativa (Escaneabilidade linear cirúrgica sem dispersão por sub-rotas)",
+      "impacto": "Minimalista/Silencioso a Editorial/Sofisticado"
+    },
+    {
+      "id": "103-landingfolio",
+      "name": "Landingfolio",
+      "url": "https://www.landingfolio.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/103-landingfolio.md",
+      "dna": [
+        "Atomic Component Decomposition (Hero, Features, Pricing, Testimonials, CTA)",
+        "High-Converting SaaS & Digital Product Architecture",
+        "Conversion Rate Optimization (CRO) by Design Engineering",
+        "Multi-Framework Code Ready (Tailwind CSS, Webflow, Figma, React, Vue)",
+        "Bento Grid Modularity & Interactive Visual Proofs",
+        "Dual-Spectrum Palette (Pristine Light Panel & Obsidian Tech Dark)",
+        "Frictionless Onboarding & Anti-Friction Micro-Copy"
+      ],
+      "frameworks": [
+        "Next.js / Nuxt 3 (SSR/SSG & App Architecture)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (container queries, arbitrary variants, modern shadows, 1px specular borders)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / Headless UI / Lucide React (primitivos acessíveis WAI-ARIA)",
+        "Figma / Webflow / Tailbits (fontes de integração direta de componentes copy-and-paste)"
+      ],
+      "densidade": "Alta/Utilitaria a Media/Narrativa",
+      "impacto": "Editorial/Sofisticado & High-Conversion Commercial Tech"
+    },
+    {
+      "id": "104-landing-love",
+      "name": "Landing.love",
+      "url": "https://www.landing.love/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/104-landing-love.md",
+      "dna": [
+        "Motion-First Digital Showcase & Living Web Experiences",
+        "Full-Page Video Documentation (Continuous Scroll & Physics Breakdown)",
+        "Creative Agency & Experimental Craft (GSAP, WebGL, Three.js, Spline)",
+        "Modern Visual Builders Vanguard (Framer & Webflow Ecosystems)",
+        "Micro-Interactions, Magnetic Triggers & Tactile Hover States",
+        "Scrollytelling & 3D Interactive Spatial Storytelling",
+        "High-Impact Neon Contrast (Signature Pink Love & Obsidian Canvas)"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR / Otimização de Vídeo e Imagem)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (Arbitrary values, container queries, custom aspect ratios)",
+        "GSAP (GreenSock Animation Platform) & ScrollTrigger",
+        "Framer Motion / Motion.dev (Molas táteis, layout animations, exit transitions)",
+        "Lenis Smooth Scroll (Studio Freight / Darkroom)",
+        "Three.js / React Three Fiber / Spline 3D",
+        "Webflow & Framer (Fontes primárias dos cases catalogados)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Experimental/Imersivo & Editorial/Sofisticado"
+    },
+    {
+      "id": "105-unsection",
+      "name": "Unsection",
+      "url": "https://www.unsection.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/105-unsection.md",
+      "dna": [
+        "Section-First Atomic Inspiration & Modular Component Deconstruction",
+        "Modern High-Converting SaaS & Tech Product Sectional Archetypes",
+        "Bento Grid Modularity & Interactive Feature Breakdown",
+        "Polished Enterprise B2B Clean & Obsidian Dark Mode Aesthetics",
+        "Typographic Rigor & Real-World Font Parity (Fonts in Use Catalog)",
+        "Conversion-Engineered Component Anatomy (Heros, Pricing, Trust, Footers)",
+        "Hairline Micro-Borders, Ambient Diffuse Radial Glows & Specular Insets"
+      ],
+      "frameworks": [
+        "Next.js (App Router, Server Components & Static Route Generation)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (Container queries, subgrid, modern arbitrary variants, backdrop filters)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico para accordions, tabs e hover reveals)",
+        "Radix UI / Headless UI (primitivos acessíveis de Accordion, Dialog, Dropdown e Tabs)",
+        "Lucide React / Phosphor Icons (iconografia vetorial geométrica linear de 1.5px)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Modern Commercial Tech"
+    },
+    {
+      "id": "106-saaslandingpage",
+      "name": "SaaS Landing Page",
+      "url": "https://saaslandingpage.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/106-saaslandingpage.md",
+      "dna": [
+        "High-Converting B2B & Developer SaaS Architecture",
+        "Conversion-First Full-Height Page Cataloging",
+        "Taxonomic Precision (Technology × Font × Industry × Color Palette × Page Type)",
+        "Modern Dark UI & Precision Zinc Slate Interfaces",
+        "Bento Grid Feature Modularization & Interactive Previews",
+        "Specular Hairline Borders & Subtle Ambient Glows",
+        "Transparent Tiered Pricing Matrices with Billing Toggles",
+        "Frictionless Product-Led Growth (PLG) User Flows"
+      ],
+      "frameworks": [
+        "Next.js (App Router / React Server Components)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (Zinc slate palette, ring-offset, container queries, subgrid)",
+        "Framer Motion / Motion.dev (molas tácteis, layout animations, exit animations)",
+        "Radix UI / Shadcn UI / Lucide React (acessibilidade WAI-ARIA, modais, tooltips, switches)",
+        "Framer & Webflow (ecossistemas dominantes das referências curadas)",
+        "GSAP (ScrollTrigger para animações guiadas em grandes produtos SaaS)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Modern Commercial Tech & High-Converting Editorial"
+    },
+    {
+      "id": "107-saasframe-io",
+      "name": "SaaS Frame",
+      "url": "https://www.saasframe.io/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/107-saasframe-io.md",
+      "dna": [
+        "Full-Funnel Lifecycle Architecture (Marketing ⟷ Onboarding ⟷ Product UI ⟷ Emails)",
+        "Product-Led Growth (PLG) & Immediate Time-to-Value UX",
+        "High-Density B2B Enterprise Data Layouts (KPI Cards, Data Tables, Faceted Filters)",
+        "Dual-Engine Neutral Canvas (Obsidian Dark App & Pristine Slate Web)",
+        "Atomic Component Scalability (Shadcn/Radix Primitives, Tailwind CSS, 1px Crisp Borders)",
+        "Frictionless Guided Onboarding (Checklists, Step Progressors & Empty State Primers)",
+        "Retention-Driven Lifecycle Messaging (Nudges, Drip Emails & Upgrade Modals)"
+      ],
+      "frameworks": [
+        "Next.js 14/15 (App Router, Server Components & Dynamic Routing)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (variantes de container queries, arbitrary values, borders especulares de 1px)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence em drawers e modais)",
+        "Radix UI / Shadcn UI (primitivos acessíveis WAI-ARIA para dropdowns, dialogs, command palettes e tooltips)",
+        "Lucide React (iconografia semântica consistente de 1.5px e 2px)",
+        "Recharts / Tremor / Visx (gráficos analíticos e micro-sparklines responsivas)"
+      ],
+      "densidade": "Alta/Utilitaria (In-App Product UI) a Media/Narrativa (Landing Pages & Flows)",
+      "impacto": "Editorial/Sofisticado & High-Conversion Commercial Tech"
+    },
+    {
+      "id": "108-saaspages-xyz",
+      "name": "SaaS Pages",
+      "url": "https://saaspages.xyz/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/108-saaspages-xyz.md",
+      "dna": [
+        "Decomposição Atômica de Blocos de Landing Page (16 Categorias Funcionais)",
+        "Engenharia de Copywriting de Conversão (Value Proposition & Benefit Heuristics)",
+        "Evolução Histórica de Interfaces SaaS (Side-by-Side Version Comparison)",
+        "High-Converting B2B & Product-Led Growth (PLG) Architecture",
+        "Fricção Mínima de Entrada (Single-Field Input & Direct Action Anchors)",
+        "Padrões Clássicos & Modernos de Software Corporativo (Stripe, Slack, Postman, Netlify)",
+        "Eliminação Sistemática de Links de Fuga e Ruído Visual"
+      ],
+      "frameworks": [
+        "Next.js / React 19",
+        "Tailwind CSS v3 / v4 (Container Queries, Grid, Flexbox, Arbitrary Variants)",
+        "Versoly Engine (ecossistema de deploy e prototipagem ágil de SaaS)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / Headless UI (primitivos acessíveis WAI-ARIA)",
+        "Lucide React / FontAwesome (iconografia técnica funcional)"
+      ],
+      "densidade": "Alta/Utilitaria a Media/Narrativa",
+      "impacto": "Editorial/Sofisticado & High-Conversion Commercial Tech"
+    },
+    {
+      "id": "109-saaspo",
+      "name": "Saaspo",
+      "url": "https://saaspo.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/109-saaspo.md",
+      "dna": [
+        "SaaS Product-Led Growth (PLG) Showcase",
+        "Tripartite Atomic Decomposition (Pages, Sections, OG Images)",
+        "Interactive Bento Grid & Live Software Micro-Previews",
+        "High-Trust B2B Enterprise & Developer Tools Aesthetic",
+        "Dual-Spectrum Palette (Obsidian Deep Tech & Crisp Slate Alabaster)",
+        "Feature Breakdown & Competitor Comparison Architecture",
+        "Open Graph (OG) Social Card Curation & Asset Benchmarking"
+      ],
+      "frameworks": [
+        "Next.js 15 / Nuxt 3 (SSR/SSG & App Router Architecture)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (Container Queries, 1px Hairline Borders, Modern Backdrop Blur)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / Headless UI / Lucide React (primitivos acessíveis WAI-ARIA)",
+        "Webflow / Framer / ScreenshotOne (stack de captura automatizada e exportação de layouts no-code/code)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & High-Conversion Commercial Tech"
+    },
+    {
+      "id": "110-saaswebsites",
+      "name": "SaaS Websites",
+      "url": "https://saaswebsites.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/110-saaswebsites.md",
+      "dna": [
+        "High-Converting B2B SaaS Architecture",
+        "Enterprise Dual-Spectrum (Pristine Slate Light & Obsidian Tech Dark)",
+        "Full-Funnel Lifecycle Deconstruction (Full Pages, UI Elements, User Flows, Lifecycle Emails)",
+        "End-to-End Company Profiles (From Acquisition to Onboarding & Retention)",
+        "Product-Led Growth (PLG) & Sales-Assisted Hybrid Navigation",
+        "Bento Grid Modularity with Live Telemetry & Interactive Demos",
+        "Enterprise Trust Engineering (SOC2, HIPAA, SLA Badges & Verifiable Case Studies)"
+      ],
+      "frameworks": [
+        "Next.js 15 / Nuxt 3 (SSR/SSG & Enterprise App Architecture)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (container queries, arbitrary variants, 1px specular borders, bento grids)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / Headless UI / Lucide React (primitivos acessíveis WAI-ARIA para mega menus e accordions)",
+        "Recharts / Tremor / Visx (gráficos analíticos e telemetria para demonstração visual de produto)"
+      ],
+      "densidade": "Alta/Utilitaria a Media/Narrativa",
+      "impacto": "Editorial/Sofisticado & High-Conversion B2B Tech"
+    },
+    {
+      "id": "111-saasinterface",
+      "name": "SaaS Interface",
+      "url": "https://saasinterface.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/111-saasinterface.md",
+      "dna": [
+        "Post-Login B2B SaaS Application Architecture",
+        "Atomic Component-to-Page Taxonomy (26 Page Archetypes, 6 Component Families)",
+        "High-Density Data Grid & Workspace Ergonomics",
+        "Keyboard-Driven Navigation & Modern Command Palettes (Cmd+K)",
+        "Radix UI / Tailwind Utility Precision & 1px Hairline Surfaces",
+        "Enterprise Security, Billing & Settings Systems",
+        "Zero-Data Empty States & Product-Led Onboarding Flows"
+      ],
+      "frameworks": [
+        "Next.js 14/15 / Nuxt 3 (App Router, Server Components & Suspense)",
+        "React 19 / TypeScript 5.x",
+        "Tailwind CSS v3/v4 (Container Queries, Hairline Borders, CSS Variables)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / TanStack Table / Lucide React / Floating UI",
+        "TanStack Virtual (Virtualização de linhas em tabelas de alto volume)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Minimalista/Silencioso & High-Utility Enterprise Tech"
+    },
+    {
+      "id": "112-webinspoo",
+      "name": "WebInspoo",
+      "url": "https://www.webinspoo.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/112-webinspoo.md",
+      "dna": [
+        "Modern High-Converting SaaS & Digital Product Showcase",
+        "Multi-Dimensional Decomposition (Pages, Fonts, Color Palettes, Tech Stacks, Industries)",
+        "Developer-to-Designer Frictionless Bridge (HTML-to-Figma & Paper Snapshot Engine)",
+        "Bento Grid Feature Visualization & Live Interactive Mockups",
+        "Dual-Spectrum Palette (Obsidian Deep Void & Crisp Light Alabaster)",
+        "Native AI-Agent Optimization (llms.txt, skill.md & Machine Model Context Protocol - MCP)",
+        "Asset-Level Reverse Engineering (Extracted Hex Swatches, Typography Stacks, OG Social Cards)"
+      ],
+      "frameworks": [
+        "Next.js 15 / App Router Architecture (React 19, Turbopack, SSR/SSG)",
+        "Tailwind CSS v3/v4 (Container Queries, Arbitrary Values, 1px Hairline Borders, Modern Backdrop Blur)",
+        "Framer Motion / Motion.dev (Spring Physics com amortecimento crítico, layout animations, AnimatePresence)",
+        "Radix UI / Headless UI / Lucide React (Primitivos WAI-ARIA com navegação por teclado e foco acessível)",
+        "Webflow / Framer / WordPress / GSAP (Categorias de curadoria e templates exportáveis)",
+        "Chrome Extension Engine (DOM Tree Scraper para Figma REST API / Plugin Layer Generator)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & High-Conversion Commercial Tech"
+    },
+    {
+      "id": "113-refero-design",
+      "name": "Refero Design",
+      "url": "https://refero.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/113-refero-design.md",
+      "dna": [
+        "Production-Grade Real Software UI/UX Intelligence",
+        "Multi-Screen End-to-End User Journeys (Flows over Static Shots)",
+        "Atomic Component Granularity (Micro-Elements, Dialogs, Data Grids & Toolbars)",
+        "Dual-Platform Separation (Web Applications ⟷ Native iOS Apps)",
+        "AI-Native Design Ingestion (Refero MCP & DESIGN.md Token Extraction)",
+        "High-Density Structured Taxonomy (Page Types, UI Patterns, Element Atoms & Brand Catalogs)",
+        "Surgical Functional Minimalism (Dark Theme #13151A & Light Canvas #FFFFFF with 1px Sharp Precision)"
+      ],
+      "frameworks": [
+        "React 19 / Next.js 14/15",
+        "TypeScript 5.x",
+        "Tailwind CSS v3/v4 (arbitrary variants, container queries, specular 1px borders)",
+        "Framer Motion / Motion.dev (layout springs, drawer transitions, smooth view transitions)",
+        "Radix UI / Shadcn UI Primitives (Dialogs, Dropdowns, Tooltips, Tabs, Accordions, Sheet Drawers)",
+        "Model Context Protocol (Refero MCP em https://api.refero.design/mcp para Claude Code, Cursor, Windsurf)",
+        "Lucide React / Phosphor Icons"
+      ],
+      "densidade": "Alta/Utilitaria & Multi-Nível (In-App Screens, Micro-Components & End-to-End User Flows)",
+      "impacto": "Editorial/Sofisticado & High-Fidelity Product Engineering"
+    },
+    {
+      "id": "mobbin",
+      "name": "Mobbin",
+      "url": "https://mobbin.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/114-mobbin.md",
+      "dna": [
+        "Real-World Shipped Production Software UX",
+        "End-to-End User Journeys & Multi-Step Interactive Flows",
+        "Multi-Platform Native Fidelity (iOS, Android & Web App Architecture)",
+        "Atomic UI Element Decomposition & Design System Taxonomy",
+        "Optical Precision & Strict 8pt Grid Human Interface Guidelines (HIG / Material 3)",
+        "OCR Text Copy Indexing & Real Microcopy Architecture",
+        "Contextual State Management (Empty States, Error States, Success Modals, Paywalls)",
+        "Figma Plugin Interoperability & Prototype Hotspot Navigation"
+      ],
+      "frameworks": [
+        "React Native / Expo",
+        "Swift / SwiftUI (iOS Human Interface Guidelines)",
+        "Kotlin / Jetpack Compose (Android Material 3)",
+        "Next.js 15 / React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (Container queries, arbitrary properties, safe-area utilities)",
+        "Framer Motion / Motion.dev (molas com amortecimento tátil e transições de layout compartilhado)",
+        "Radix UI Primitives / Shadcn UI / Base UI"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & High-Fidelity Native Production"
+    },
+    {
+      "id": "115-pageflows",
+      "name": "Page Flows",
+      "url": "https://pageflows.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/115-pageflows.md",
+      "dna": [
+        "Evidence-Based UX Engineering & Real-App Dynamic Journeys",
+        "Full-Funnel Lifecycle Continuity (Desktop Web ⟷ iOS ⟷ Android ⟷ Lifecycle Emails)",
+        "Time-Synchronized Interactive Video Scrubbing with Granular Step Annotations",
+        "Product-Led Growth (PLG) Benchmarking (Onboarding, Upgrades, Invites, Paywalls, Cancellations)",
+        "Dark Obsidian Control Canvas (#0B0B0D / #18181B) with High-Contrast Canary Accent (#FEF08A)",
+        "Micro-Interaction Pragmatism & Anti-Dribbble Feasibility",
+        "Atomic Screen & UI Component Taxonomy (Inputs, Bottom Sheets, Modals, Empty States)"
+      ],
+      "frameworks": [
+        "Next.js 14/15 / Remix (SSR/SSG para páginas de catálogo, streaming para rotas dinâmicas de mídia)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3/v4 (container queries, CSS variables semânticas, bordas nítidas de 1px)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico para drawers, transições de estado de modais e timelines de scrubber)",
+        "Radix UI / Shadcn UI (primitivos acessíveis WAI-ARIA para dialogs, tooltips, tabs, dropdowns e sliders)",
+        "Video.js / Plyr / Custom HTML5 Video Player API (sincronização bidirecional de timecodes com anotações de fluxo)",
+        "Lucide React (iconografia semântica consistente de 1.5px e 2px)"
+      ],
+      "densidade": "Alta/Utilitaria (Análise de fluxos operacionais, sequências de telas e timestamps) a Media/Narrativa (Apresentação de case studies)",
+      "impacto": "Editorial/Sofisticado & High-Utility Commercial Tech"
+    },
+    {
+      "id": "screenlane",
+      "name": "Screenlane",
+      "url": "https://screenlane.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/116-screenlane.md",
+      "dna": [
+        "Real-World Shipped Production Software (Mobile iOS, Android & Desktop Web)",
+        "Motion-Centric Interface Architecture & Micro-Interactions (Herança UI Movement)",
+        "End-to-End User Journeys & Multi-Screen Task Recordings",
+        "Component-Level State Matrix (Empty States, Error Validation, Modals, Paywalls)",
+        "Optical 8pt System & Native Platform Human Interface Guidelines (HIG & Material 3)",
+        "Full-Funnel Alignment: Interface Screens + Transactional Lifecycle Emails",
+        "Gesture-Driven Spatial Navigation (Bottom Sheets, Snap Drawers, Interactive Carousels)"
+      ],
+      "frameworks": [
+        "React 19 / Next.js 15 (App Router, Server Components)",
+        "React Native / Expo (Cross-Platform Mobile Engine)",
+        "SwiftUI (iOS Human Interface Guidelines & Dynamic Island)",
+        "Kotlin / Jetpack Compose (Android Material 3 & Edge-to-Edge Design)",
+        "Tailwind CSS v3 / v4 (Container Queries, Safe-Area Environment Utilities)",
+        "Framer Motion / Motion.dev (molas táteis com stiffness/damping calibrados e layout animations)",
+        "Radix UI Primitives / Shadcn UI / Vaul Drawer"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & High-Fidelity Native Production"
+    },
+    {
+      "id": "117-nicelydone-club",
+      "name": "Nicelydone Club",
+      "url": "https://nicelydone.club/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/117-nicelydone-club.md",
+      "dna": [
+        "Production-Grade SaaS UI/UX Intelligence",
+        "Behind-the-Login Screen Archaeology (Deep Product Surfaces)",
+        "Multi-Step Interactive User Flows & Journey Sequences",
+        "OCR In-Screen Text Indexing & Full-Text Microcopy Search",
+        "Atomic Pattern & Component Cataloging (218,000+ Real Screens)",
+        "AI-Native Discovery Engine (Remote MCP OAuth 2.1 & llms.txt Integration)",
+        "Modernist Precision Minimalist Canvas (Nuxt 3 / OKLCH / Sharp 1px Outlines & Tangerine Orange Accent #FF6600)"
+      ],
+      "frameworks": [
+        "Nuxt 3 / Vue 3 (Vite + SSR Híbrido)",
+        "Tailwind CSS v4 (com suporte a paletas OKLCH e display-p3)",
+        "Nuxt UI Component System",
+        "Model Context Protocol (Remote MCP Server em https://mcp.nicelydone.club/mcp via Streamable HTTP & OAuth 2.1 PKCE)",
+        "TypeScript 5.x",
+        "Cloudflare Images & Workers (Edge Resizing & WebP Delivery)",
+        "Figma Integration / HTML-to-Design Workflow"
+      ],
+      "densidade": "Alta/Utilitaria & Estruturada (Screenshots Reais em Alta Resolução, Fluxos Sequenciais, Metadados de UI, OCR e Componentes)",
+      "impacto": "Editorial/Sofisticado & Utilitário Cirúrgico para Engenharia de Software"
+    },
+    {
+      "id": "118-uigarage",
+      "name": "UI Garage",
+      "url": "https://uigarage.net/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/118-uigarage.md",
+      "dna": [
+        "Multi-Platform Atomic UI Pattern Benchmarking (Web, iOS, Android, Tablet)",
+        "Granular Component Isolation over Macro-Page Distractions",
+        "Ergonomic Micro-Interaction Catalog (Empty States, Modals, Feed Cards & Drawers)",
+        "Real-World In-App Implementation Benchmarks (7,000+ Curated Production Shots)",
+        "Device-Specific Mental Models (Mobile Touch Targets ⟷ Desktop Cursor Densities)",
+        "Minimalist Utilitarian Curation Interface (Slate Canvas with 1px Hairline Precision)"
+      ],
+      "frameworks": [
+        "React 19 / Next.js 14/15",
+        "Tailwind CSS v3/v4 (arbitrary variants, container queries, specular borders)",
+        "Framer Motion / Motion.dev (layout springs, tab switching transitions, card hover elevation)",
+        "Radix UI Primitives (Dialogs, Tabs, Tooltips, Dropdowns, Segmented Controls)",
+        "Lucide React / Phosphor Icons"
+      ],
+      "densidade": "Alta/Utilitaria & Multi-Plataforma (Componentes Atômicos, Telas de Fluxo e Micro-Estados)",
+      "impacto": "Minimalista/Silencioso & Utilitário Curado"
+    },
+    {
+      "id": "navbar-gallery",
+      "name": "Navbar Gallery",
+      "url": "https://www.navbar.gallery/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/119-navbar-gallery.md",
+      "dna": [
+        "Curadoria Atômica de Arquitetura de Navegação (Header-First Design)",
+        "Floating Dynamic Islands & Detached Pill Bars",
+        "Obsidian Glassmorphism & Frosted Blur Surfaces (Backdrop Filter)",
+        "SaaS B2B Mega Menus de Alta Densidade Informacional",
+        "Microinterações de Cursor & Sliding Tab Indicators (Molas Físicas)",
+        "Multi-Tier Header Layouts (Announcement + Global Nav + Contextual Bar)",
+        "Cinematic Fullscreen Drawers & Responsive Kinetic Menus"
+      ],
+      "frameworks": [
+        "Webflow (Plataforma nativa do portal de curadoria)",
+        "Finsweet Attributes (CMS Load & CMS Filter v1)",
+        "Next.js (App Router) & React 19",
+        "Tailwind CSS v3 / v4 (Arbitrary values, backdrop-filters, custom utilities)",
+        "Framer Motion / Motion.dev (Spring physics, sliding pill `layoutId`, exit transitions)",
+        "Radix UI / Shadcn UI (Primitives acessíveis de NavigationMenu, Dialog, DropdownMenu)",
+        "Lucide React / Phosphor Icons (Ícones micro-otimizados em 16-20px)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Minimalista/Silencioso"
+    },
+    {
+      "id": "120-footer-design",
+      "name": "Footer Design",
+      "url": "https://www.footer.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/120-footer-design.md",
+      "dna": [
+        "The Footer Renaissance & Bottom-of-Page Hyper-Specialization",
+        "Curtain Reveal / Sticky Underlay Scroll Physics",
+        "High-Density Multi-Column Taxonomic Sitemaps",
+        "Bento Grid Functional Footers (Interactive Widgets, Live Badges & Micro-Tools)",
+        "Massive Oversized Brand Typography & Architectural Logo Anchors",
+        "Dark Canvas Inversion & Hairline Micro-Borders (1px White/Black Tertiary)",
+        "Editorial Colophons with Technical Metadata, Timezones & Production Credits"
+      ],
+      "frameworks": [
+        "Webflow (Plataforma nativa do site original)",
+        "Finsweet Attributes (@finsweet/attributes-cmsload & @finsweet/attributes-cmsstatic)",
+        "Next.js 15+ (App Router, Server Components & Static Site Generation)",
+        "React 19 / TypeScript",
+        "Tailwind CSS v3 / v4 (Container queries, CSS grid subgrid, arbitrary variants, backdrop filters)",
+        "Framer Motion / Motion.dev (molas com amortecimento crítico para accordions responsivos e curtain reveals)",
+        "Radix UI / Headless UI (primitivos acessíveis para dropdowns de idioma, moeda e diálogos)",
+        "Lucide React (iconografia vetorial linear precisa de 1.5px)"
+      ],
+      "densidade": "Alta/Utilitaria a Media/Narrativa",
+      "impacto": "Editorial/Sofisticado & Experimental/Imersivo"
+    },
+    {
+      "id": "ecomm-design",
+      "name": "Ecomm Design",
+      "url": "https://ecomm.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/121-ecomm-design.md",
+      "dna": [
+        "Curadoria Pragmática de E-commerce Orientada a Métricas de Conversão (CRO-First)",
+        "Dissecção Anatômica de Lojas Reais em Produção (Homepage, PLP, PDP, Cart Drawer, Checkout, Footer)",
+        "Mapeamento Completo de Tech Stack, Gateways de Pagamento, MarTech & Ferramentas de Retenção",
+        "Direct-to-Consumer (DTC) & Digitally Native Vertical Brands (DNVB) Aesthetics",
+        "Microinterações de Compra & Ajax Cart Drawers com Gamificação de Frete Grátis",
+        "Sistemas de Facetamento Dinâmico & Visual Swatches para Variantes Complexas",
+        "Mobile-First Sticky Actions & Thumb-Zone Ergonomics"
+      ],
+      "frameworks": [
+        "Shopify & Shopify Plus (Liquid, Hydrogen, Oxygen)",
+        "WooCommerce & WordPress (Gutenberg, Timber, Roots/Sage)",
+        "BigCommerce (Stencil, Catalyst)",
+        "Webflow E-commerce",
+        "Headless E-commerce (Next.js App Router, MedusaJS, Saleor, Shopify Storefront API)",
+        "Tailwind CSS v3 / v4 (E-commerce utility system)",
+        "Framer Motion / Motion.dev (Cart drawers, modal animations, accordion physics)",
+        "Radix UI / Headless UI (Dialogs, Accordions, Radio Groups para variantes)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Utilitario/Comercial"
+    },
+    {
+      "id": "minimal-gallery",
+      "name": "Minimal Gallery",
+      "url": "https://minimal.gallery/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/122-minimal-gallery.md",
+      "dna": [
+        "Minimalismo Suíço & International Typographic Style",
+        "Espaço Negativo Ativo como Elemento Estrutural Primário",
+        "Design Silencioso & Anti-Decoração (Quiet Digital Craft)",
+        "Monocromatismo Estrito com Contraste Cirúrgico",
+        "Curadoria Intransigente & Não Paga (100% Merit-Based, Max 1 Post/Dia)",
+        "Inspeção Dual-Device (Desktop 1440x800 vs Mobile 375x667 com DPR Real)",
+        "Bookmark Engine Client-Side com Coleções Customizadas"
+      ],
+      "frameworks": [
+        "WordPress Engine Customizado & Headless Architecture",
+        "WP Rocket + RocketCDN + Speculation Rules API (Prefetch preditivo de links)",
+        "Plausible Analytics (Telemetria leve, privacy-first e cookieless)",
+        "Vanilla JavaScript / jQuery 3.7.1 modular",
+        "CSS Grid nativo & Flexbox utilitário sem frameworks inflados",
+        "Inter Display Font (v5.3.0 WOFF2 com preload de alta prioridade)"
+      ],
+      "densidade": "Baixa/Contemplativa a Media/Narrativa",
+      "impacto": "Minimalista/Silencioso & Editorial/Sofisticado"
+    },
+    {
+      "id": "123-hoverstates",
+      "name": "Hover States",
+      "url": "https://hoverstat.es/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/123-hoverstates.md",
+      "dna": [
+        "Vanguarda Experimental & Creative Coding Autoral",
+        "Estética do 'Hover State' como Metáfora Cinética e Espacial",
+        "Tipografia Cinética Reativa (SVG Distortion, Variable Fonts & 3D Loops)",
+        "Interface Browser-in-Browser (Skeuomorphic Chrome Minimalista com Live Video)",
+        "Navegação Espacial Desconstruída (Node Graphs, Dials Mecânicos & Floorplans)",
+        "Micro-Resenhas Editoriais Cirúrgicas de Engenharia de Interação",
+        "Anti-SaaS Brutalismo & Refinamento da Arte Digital Contemporânea"
+      ],
+      "frameworks": [
+        "Gatsby 5.x / React 18 / Netlify (Arquitetura Jamstack SSG de alta performance da própria galeria)",
+        "Algolia Search Engine (Indexação instantânea de metadados e tags)",
+        "Vimeo Pro CDN & MP4 H.264/WebM Video Loops",
+        "CSS Custom Properties com Dark Mode Nativo via `prefers-color-scheme`",
+        "WebGL / Three.js / Canvas API (predominante nos projetos curados)",
+        "Framer Motion / Motion.dev / GSAP (ScrollTrigger & Flip Plugin)",
+        "SVG Filter Effects (`<feTurbulence>`, `<feDisplacementMap>`, `<feGaussianBlur>`)"
+      ],
+      "densidade": "Media/Narrativa (Curadoria visual pausada com micro-textos de alta densidade analítica)",
+      "impacto": "Experimental/Imersivo & Editorial/Sofisticado"
+    },
+    {
+      "id": "124-maxibestof",
+      "name": "MaxiBestOf",
+      "url": "https://maxibestof.one/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/124-maxibestof.md",
+      "dna": [
+        "Vanguarda Tipográfica Editorial & Independent Type Foundries Curation",
+        "Deconstructed Section Architecture (/sections/hero, /sections/footer, /sections/features)",
+        "Curadoria Diária Anti-Monocultura & Anti-Generic SaaS Trap",
+        "Harmonização de Inktraps Ousados, Serifas Contemporâneas & Monoespaçadas Técnicas",
+        "Estética Editorial Franco-Suíça (Modernismo Gráfico de Alta Densidade e Respirabilidade)",
+        "Hairline Grid Precision (Divisores 1px, Grids Assimétricos e Contraste Tátil)",
+        "AI-Native Discovery Engine (MaxiBestOf Remote MCP Server para Assistentes de IA)"
+      ],
+      "frameworks": [
+        "Next.js 14/15 (App Router & React 19)",
+        "Tailwind CSS v3 / v4 (com suporte a paletas estendidas e container queries)",
+        "Model Context Protocol (Remote MCP Server para Agentes de Código)",
+        "Cloudflare Images & Workers (Edge Image Resizing, WebP/AVIF CDN)",
+        "Framer Motion / Motion.dev (Spring physics e transições tipográficas em reveal)",
+        "Lenis Smooth Scroll / Locomotive Scroll Engine (Opcional nos sites curados)"
+      ],
+      "densidade": "Alta/Utilitaria & Editorial/Curada (Screenshots HD, Mapeamento Tipográfico por Família e Fundição, Seções Isoladas)",
+      "impacto": "Editorial/Sofisticado & Experimental/Tipográfico"
+    },
+    {
+      "id": "bestwebsite-gallery",
+      "name": "Best Website Gallery",
+      "url": "https://bestwebsite.gallery/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/125-bestwebsite-gallery.md",
+      "dna": [
+        "Modernismo Editorial & Warm Paper Craftsmanship",
+        "Simulação Tátil de Navegador macOS (Browser Chrome Window Framing)",
+        "Tipografia Híbrida: Display Serif Orgânica (Fraunces) + Grotesque Funcional (Switzer)",
+        "Micro-Metadados Monospaced de Alta Precisão (JetBrains Mono)",
+        "Layered Elevation: Sombras Estratificadas de 10 Camadas em Espaço OKLCH",
+        "Contador de Score Odômetro Cinemático (Slot-Machine Rolling Digits)",
+        "Taxonomia Arquitetural Granular (CMS, Frameworks, Estilos, Serviços, Cores, Países, Criadores)",
+        "Caderno Técnico Paralelo (Linklog Dev Feed de Engenharia Web e CSS Tricks)"
+      ],
+      "frameworks": [
+        "Astro (Static Islands, Server-Side Rendering e Edge Optimization)",
+        "Craft CMS (Headless Content Engine de longa maturidade)",
+        "Zero-Runtime Atomic CSS / StyleX / Modern CSS Layers (@layer reset, base, priority)",
+        "Web Components & Vanilla Micro-Scripts (Rolling score counter, sticky nav sentinel)",
+        "Hetzner Cloud & Laravel Forge Deployment",
+        "Cabin Analytics / Simple Analytics (Privacidade estrita e zero cookies)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Artesanal/Contemporâneo"
+    },
+    {
+      "id": "curated-design",
+      "name": "Curated Design",
+      "url": "https://www.curated.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/126-curated-design.md",
+      "dna": [
+        "Modern High-Craft Digital Aesthetic (SaaS, Studio & Fintech Precision)",
+        "Decomposição Anatômica em Seções Atômicas (Atomic Section Dissection)",
+        "Tipografia Editorial Híbrida (Geometric Sans Euclid + Display Serif Hedvig)",
+        "Quiet Luxury Dark/Light Adaptativo (Canvas OKLCH + Progressive Blur Shaders)",
+        "Curadoria Humana Baseada em Código em Produção (Real Live Shipped Websites)",
+        "Pioneirismo em AI Coding Agent Bridge (Nativo MCP — Model Context Protocol)",
+        "Design System As Code Extraction (Tokens Tailwind v4, CSS Vars e DESIGN.md)"
+      ],
+      "frameworks": [
+        "Astro 4+ (Islands Architecture & Edge Static Delivery)",
+        "Tailwind CSS v3/v4 com Design Tokens Estritos",
+        "PostHog Analytics First-Party Proxy Ingestion",
+        "BunnyCDN Global Storage (HLS/MP4 Video Edge Streaming + Retina WebP)",
+        "LemonSqueezy Merchant Billing Engine",
+        "Model Context Protocol (MCP HTTP & OAuth Remote Server)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Contemporaneo/Tech"
+    },
+    {
+      "id": "127-designspiration",
+      "name": "Designspiration",
+      "url": "https://www.designspiration.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/127-designspiration.md",
+      "dna": [
+        "Curadoria Visual Multidisciplinar de Alta Fidelidade (Anti-Pinterest)",
+        "Pioneirismo em Busca Cromática Hexadecimal (Até 5 Tons Simultâneos)",
+        "Grid Masonry Fluido & Adaptativo (2 a 9 Colunas Parametrizadas)",
+        "Paleta K-Means Automatizada por Item com Fundo Harmonizado",
+        "Visions Engine (Moodboarding Colaborativo & Exportação Multi-Formato)",
+        "Tipografia Suíça Contemporânea (Inter Variable com Micro-Metadados)",
+        "Design de Embalagens, Tipografia de Pôster, Editorial & UI Craft"
+      ],
+      "frameworks": [
+        "Custom PHP / Cloudflare Edge Architecture",
+        "Inter Display & Inter Roman Variable Fonts (WOFF2 preload)",
+        "Vanilla JavaScript Modular Architecture (App.config / Custom Masonry)",
+        "REST Endpoints & OpenSearch Integration",
+        "Responsive Image Delivery via dspncdn.com CDN (236x, 472x, 692x, Originals)",
+        "Stripe Integration para Assinatura Pro ($5/mo, $50/yr)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Imersivo/Cromático"
+    },
+    {
+      "id": "128-dark-design",
+      "name": "Dark Mode Design",
+      "url": "https://www.dark.design/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/128-dark-design.md",
+      "dna": [
+        "Obsidian & Deep Charcoal Luminance Hierarchy",
+        "Elevação por Opacidade de Luz Branca (Additive Light Layering) e Zero Sombras Pretas",
+        "Contraste Cirúrgico & Prevenção de Halation Tipográfica (WCAG AAA/AA)",
+        "Estética B2B DevTools, High-Tech Cloud & AI Modernism (Linear/Raycast lineage)",
+        "Bordas Hairline Translúcidas de 1px (white/10 e white/5)",
+        "Tipografia Display Geométrica Técnica (Aeonik Pro Bold + Aeonik Fono Regular)",
+        "Atmosfera Cinematográfica com Fog Gradients (Bottom Void Overlays)",
+        "Cards Modulares em Proporção Estrita 3:2 com Micro-Iluminação de Borda no Hover"
+      ],
+      "frameworks": [
+        "Next.js 15+ (App Router, React Server Components)",
+        "Tailwind CSS v3 / v4 com utilitários de opacidade dinâmica",
+        "Supabase (PostgreSQL + CDN Storage para screenshots de alta resolução)",
+        "Plausible Analytics (Telemetria leve privacy-first sem cookies)",
+        "Radix UI / Shadcn UI (Primitivos de interface acessíveis com foco em teclado)",
+        "Lucide Icons (Ícones lineares 1.5px / 2px)",
+        "Aeonik Pro Bold + Aeonik Fono Regular (Tipografia proprietária WOFF2)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Experimental/Imersivo"
+    },
+    {
+      "id": "129-brutalistwebsites",
+      "name": "Brutalist Websites",
+      "url": "https://brutalistwebsites.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/129-brutalistwebsites.md",
+      "dna": [
+        "Raw Brutalism & Verdade aos Materiais Digitais (Truth to Materials)",
+        "Anti-Design & Desconstrução de Convenções Corporativas",
+        "Hipertextualidade Crua (HTML Semântico Nu & Links Azuis Nativos)",
+        "Tipografia Monospace de Sistema & Serifas Clássicas Despidas",
+        "Ausência Radical de Cosméticos (Zero Border-Radius, Zero Box-Shadows)",
+        "Alta Densidade Utilitária & Arquitetura de Terminal/Diretório",
+        "Performance Atômica & Baixo Consumo de Recursos Computacionais"
+      ],
+      "frameworks": [
+        "HTML5 Semântico Puro (Vanilla)",
+        "CSS Vanilla (Floats, CSS Grid Monolítico, Tabelas Nativas)",
+        "Agnóstico de Framework",
+        "Astro / Markdown Estático (SSG Minimalista)",
+        "Tailwind CSS (em modo raw brutalist com reset completo)"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Experimental/Imersivo"
+    },
+    {
+      "id": "deadsimplesites",
+      "name": "Dead Simple Sites",
+      "url": "https://deadsimplesites.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/130-deadsimplesites.md",
+      "dna": [
+        "Minimalismo Funcional Radical & Quiet Digital Craft",
+        "Manifesto Anti-Bloatware (Zero Scrolljacking, Zero Over-Animation)",
+        "Content-First & Hiperlink Primacy (A Web como Hipertexto Puro)",
+        "Tipografia Limpa e Estrutural (Neo-Grotesque & System Font Stacks)",
+        "Planaridade Cirúrgica com Bordas Hairline de 1px",
+        "Navegação Outbound Direta com Zero Fricção Intermediária",
+        "Carregamento Instantâneo de Sub-Segundo (<500ms First Contentful Paint)"
+      ],
+      "frameworks": [
+        "Framer Architecture (Arcade Labs Engine)",
+        "Cloudflare CDN & Edge Caching Global",
+        "Cloudflare R2 Object Storage / Cloudinary Media Delivery",
+        "Plausible Analytics (Telemetria cookieless de 1KB, zero impacto no DOM)",
+        "Native CSS Grid & Flexbox Layouts",
+        "Google Fonts (Inter / Public Sans / Geist Sans) & System Font Fallbacks"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Minimalista/Silencioso & Funcional/Objetivo"
+    },
+    {
+      "id": "httpster",
+      "name": "Httpster",
+      "url": "https://httpster.net/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/131-httpster.md",
+      "dna": [
+        "Typographic Raw Brutalism & Indie Web Revival",
+        "Anti-Corporate & Anti-Boring Design Manifesto ('Because fuck boring websites')",
+        "Dynamic Island Floating Capsule Header com Morphing Submenus",
+        "Micro-Dot Matrix Ticker & Vertical Timeline Explorer (3100+ Sites Map)",
+        "Adaptive Ambient Screenshot Color Shadow Injection (--c CSS Variable)",
+        "High-Density Manrope Typography com Display Fluid Clamps",
+        "Dual Taxonomy Engine (19 Styles x 29 Types) com Live Filter Overlay",
+        "Minimalist Precision Layout com Calibre Editorial da Tasmânia"
+      ],
+      "frameworks": [
+        "Custom Vanilla JavaScript & Modular ES Engine (main.entry.Z1vPrl9.js)",
+        "BEM Architecture & Native High-Performance CSS (main.entry.X6g2U.css)",
+        "Manrope Typeface Engine (Latin WOFF2 v15, Pesos 400, 500, 600)",
+        "Global Static Preloaded Catalog (/websites.json com 3.100+ registros)",
+        "CSS clamp(), Viewport Units (svh, vw), Native CSS Grid & Subgrid",
+        "Backdrop Filter & CSS Custom Properties (--c, --stroke, --color, --background-color)",
+        "Static Site Generation (SSG) de Baixa Emissão de Carbono (Low-Carbon Architecture)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Experimental/Imersivo"
+    },
+    {
+      "id": "admiretheweb",
+      "name": "Admire The Web",
+      "url": "https://www.admiretheweb.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/132-admiretheweb.md",
+      "dna": [
+        "Minimalismo Funcional Britânico (British Clean Craft & Restraint)",
+        "Grid Assimétrico Rítmico com Breakout Cadenciado (Padrão 1, 14, 23, 34)",
+        "Matting Editorial com Moldura Tint Pastel (Borda de 20px Soft Rose Frame)",
+        "Tipografia Geist & Geist Mono de Alta Densidade e Legibilidade Técnica",
+        "Linhas Pontilhadas de Liderança (Dotted Leader Lines com Contadores Vivos)",
+        "Painéis Gaveta Off-Canvas Deslizantes (Sliding Left Drawers para Filtros e Menu)",
+        "Pesquisa Modal Fullscreen com Tipografia Gigante (50px Typographic Search)",
+        "Exibição Single-Post Split Assimétrica com Sidebar Sticky e Canvas Vertical Contínuo"
+      ],
+      "frameworks": [
+        "Nuxt.js / Vue.js (Server-Side Rendering & Static Site Generation via Netlify)",
+        "WordPress REST API Headless (Backend Decoupled de Gestão de Mídia e Conteúdo)",
+        "Geist & Geist Mono (Vercel Font System via Google Fonts CDN)",
+        "Fathom Analytics (Telemetria cookieless, focada em privacidade estrita)",
+        "Paddle Engine (Processamento de pagamentos, submissões expressas e planos de claim)",
+        "Netlify RUM & Edge Delivery (Monitoramento de Core Web Vitals e CDN Global)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Minimalista/Silencioso & Editorial/Sofisticado"
+    },
+    {
+      "id": "muuuuu-org",
+      "name": "MUUUUU.ORG",
+      "url": "https://muuuuu.org/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/133-muuuuu-org.md",
+      "dna": [
+        "Japanese Editorial Web Design (Densidade Intencional de Informação)",
+        "Vertical Typography System (writing-mode: vertical-rl / Tategaki)",
+        "Assimetria Disciplinada & Wabi-Sabi Spatial Poise",
+        "Design Corporativo de Alto Nível de Produção (Non-Gimmick Real Craft)",
+        "Créditos Transparentes de Equipe & SOTD Curatorial Rigoroso",
+        "Hairline Geometric Grid & Texturas Orgânicas Sutis",
+        "Equilíbrio entre Tradição Gráfica Japonesa e Frontend Moderno"
+      ],
+      "frameworks": [
+        "WordPress Engine Customizado (Tema exclusivo muuuuuorg)",
+        "HTML5 Native Dialog API (<dialog class='l-header__drawer'>)",
+        "Vanilla JavaScript / ES Modules (loading.js + script.js)",
+        "LINE Seed JP (Família tipográfica geométrica japonesa moderna WOFF2)",
+        "Speculation & Critical Path Rendering (CSS Inline Anti-CLS)",
+        "WebGL / Three.js / Canvas (nos sites catalogados de vanguarda)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Experimental/Imersivo"
+    },
+    {
+      "id": "japan-web-design",
+      "name": "Japan Web Design",
+      "url": "https://japanwebdesign.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/134-japanwebdesign.md",
+      "dna": [
+        "Japanese Digital Craft & Cultural Modernity",
+        "Omotenashi UX (Hospitalidade Antecipatória & Zero Atrito Silencioso)",
+        "Harmonização Tipográfica Multi-Script (Kanji, Hiragana, Katakana, Romaji)",
+        "Tate-gaki (Tipografia Vertical Híbrida `writing-mode: vertical-rl`)",
+        "Dualismo Dialético: Minimalismo Contemplativo (Ma/Zen) vs Densidade Utilitária Estruturada (Messy/Informational)",
+        "Kisetsukan (Sensibilidade Cromática Sazonal & Paletas Naturais Japonesas)",
+        "Curadoria Bilingue Especializada com Crítica Técnica por Netwise Tokyo"
+      ],
+      "frameworks": [
+        "WordPress Engine com Elementor Pro & Hello Elementor Custom Architecture",
+        "WP Engine Managed Cloud Hosting + WP Flex Japan Caching Infrastructure",
+        "Speculation Rules API nativo para Prefetch preditivo de links ultra-rápido",
+        "Bootstrap Utilities + Swiper.js Carousel Engine",
+        "Gravity Forms com microvalidação em tempo real e UX de campos limpos",
+        "Fontes Web CJK Otimizadas (Noto Sans JP, Shippori Mincho, Zen Kaku Gothic, Raleway, Cooper BT)"
+      ],
+      "densidade": "Variavel de Baixa/Contemplativa (Luxury/Brand) a Alta/Utilitaria (E-commerce/Civic)",
+      "impacto": "Editorial/Sofisticado, Tradicional-Moderno & Funcional-Imersivo"
+    },
+    {
+      "id": "81-web",
+      "name": "81-web.com",
+      "url": "https://81-web.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/135-81-web.md",
+      "dna": [
+        "Japanese Contemporary Digital Craft & Curated Zen Minimalism",
+        "Bilingual Typographic Harmony (Kanji/Kana CJK + Latin Precision Pairing)",
+        "Conceito Espacial 'Ma' (間 - Negative Space & Contemplative Breathing Room)",
+        "Vertical Writing Architecture (CSS `writing-mode: vertical-rl` Integrado)",
+        "Subtle Micro-Interactions & Organic Motion Physics (EaseOutCubic / EaseOutExpo)",
+        "Paleta Tradicional Wabi-Sabi com Contrastes Tecnológicos Modernos",
+        "Taxonomia Técnica Cirúrgica (Font Identification, Color Palette, Studio Credits)"
+      ],
+      "frameworks": [
+        "Nuxt 3 / Vue 3 (Engine nativa da plataforma 81-web)",
+        "Vite & SSR / SSG Architecture com Hydration Progressiva",
+        "Tailwind CSS & Modular BEM SCSS",
+        "Next.js / Astro / SvelteKit (Nos projetos contemporâneos curados)",
+        "Three.js / WebGL / GSAP / Lenis (Nos sites premiados de agências japonesas)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria (Arquivamento Técnico Preciso)",
+      "impacto": "Editorial/Sofisticado & Silencioso/Imersivo"
+    },
+    {
+      "id": "io3000",
+      "name": "I/O 3000",
+      "url": "https://io3000.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/136-io3000.md",
+      "dna": [
+        "Japanese Technical Minimalism (Estética de Ferramenta Cirúrgica)",
+        "Slate & Charcoal Industrial Surface Palette (#202020, #4d4d4d, #d1d1d1)",
+        "Zen Mode Distraction-Free Observation Layer",
+        "Monospace Lateral Section Counter (Share Tech Mono + CSS Counters)",
+        "Dual-Action Card Architecture (External Launch vs. Internal Metadata)",
+        "Data-Driven Tag Density Metrics (Animated Relative Proportion Bars)",
+        "16-Color Chromatic Indexing Matrix",
+        "Zero-Cookie & Speculation Rules Instant Prefetching"
+      ],
+      "frameworks": [
+        "WordPress Engine Headless Customizado (io3000 theme)",
+        "Vanilla JavaScript ES Modules",
+        "Speculation Rules API (W3C Speculative Document Prefetching)",
+        "Wheel-Indicator & Smooth Scroll Polyfill",
+        "CSS Grid nativo (Colunas 50px 1fr 50px com sticky counters)",
+        "Google Fonts (Roboto + Share Tech Mono)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Minimalista/Silencioso & Sofisticado/Industrial"
+    },
+    {
+      "id": "webdesignclip",
+      "name": "Web Design Clip",
+      "url": "https://webdesignclip.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/137-webdesignclip.md",
+      "dna": [
+        "Japanese Editorial Web Design (Densidade Rigorosa e Confiabilidade / Anshin-kan)",
+        "Tipografia Híbrida Yokogaki (Horizontal) e Tategaki (Vertical / writing-mode: vertical-rl)",
+        "Hairline Geometric Grid (Divisórias Finas de 1px em Tons Neutros Terrosos e Grafite)",
+        "Categorização Multi-Faceta por Estrutura (TYPE_A a TYPE_F) e Cromatismo Binário (Main & Sub Color)",
+        "Arquitetura Quadri-Dimensional: Japan, World, Landing Page e Smartphone",
+        "Equilíbrio entre Tradição Artesanal Nipônica (Wabi-Sabi / Wa-Style) e Jamstack Contemporâneo (Astro, Next.js, Studio)",
+        "Micro-Interações Disciplinadas com Jump Rates Tipográficos Dramáticos"
+      ],
+      "frameworks": [
+        "WordPress Engine com Arquitetura de Cache Avançada (WP-Super-Cache + Autoptimize)",
+        "Speculation Rules API (W3C Standard para prefetch instantâneo de navegação)",
+        "HTML5 Native Dialogs & Pure CSS Hamburger Checkbox Accordions",
+        "Astro / Next.js / Vue / Nuxt / Studio / Webflow (nos sites arquivados)",
+        "GSAP / ScrollTrigger / Lenis Smooth Scroll / Three.js WebGL (nas referências de vanguarda)",
+        "Google Fonts: Noto Sans JP + Roboto Condensed para Pareamento Latino-Nipônico"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado, Minimalista/Silencioso & Experimental/Imersivo"
+    },
+    {
+      "id": "bm-s5-style",
+      "name": "S5-Style (BM)",
+      "url": "https://bm.s5-style.com/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/138-bm-s5-style.md",
+      "dna": [
+        "Japanese High-End Interactive & Motion Web Design",
+        "The 5 'S' Philosophy: Shapely, Sharp, Skillful, Splendid, Supreme",
+        "Kinetic UI & Experimental WebGL/Canvas Direction",
+        "Deep Curatorial Analysis (Editor's Critique Notes)",
+        "Signature S5 Emerald Green (#00695E) on Technical Dual-Tone Canvas",
+        "Micro-Interaction Sophistication (Exponential Easing cubic-bezier(.19, 1, .22, 1))",
+        "Collaborative Design Sets & Industry-Wide Curation Ecosystem"
+      ],
+      "frameworks": [
+        "Next.js (App Router / SSR Hydration)",
+        "React 18",
+        "Tailwind CSS / Custom CSS Properties System",
+        "Framer Motion / CSS Kinetic Transitions",
+        "Inter & Noto Sans JP (Dual-Script High Legibility Pairing)",
+        "High-Performance Multi-tier WebP Asset Pipeline (s: 500x375, m: 1000x750, l: 1400x1050 / 2800x2100)"
+      ],
+      "densidade": "Media/Narrativa a Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado & Experimental/Imersivo"
+    },
+    {
+      "id": "bookma-org",
+      "name": "Bookma!",
+      "url": "https://bookma.org/",
+      "category": "5-galleries",
+      "schema": "C-galleries",
+      "file": "knowledge/5-galleries/139-bookma-org.md",
+      "dna": [
+        "Japanese Contemporary Multi-Device Responsive Craft",
+        "Side-by-Side Dual-Screen Comparison (Simultaneous PC & Mobile/SP First-View Inspection)",
+        "Integrated Chromatic Taxonomy (Corner Palette Swatches & Color Scanning)",
+        "Bilingual Typographic Harmony (Kanji/Kana CJK + Latin Typography Pairing)",
+        "Micro-Grid Modularity & Asymmetric Japanese Editorial Layouts",
+        "Functional Minimalist Portfolio & Agency Directory",
+        "Tactile UI Navigation & Device-Adaptive Architecture"
+      ],
+      "frameworks": [
+        "WordPress / Headless REST API (Motor original do repositório bookma! v3)",
+        "Modern Responsive CSS Grid & Flexbox Layouts",
+        "Vanilla JavaScript / Vue.js / React nos ecossistemas de referência",
+        "Tailwind CSS & Utility-First Responsive Breakpoints",
+        "Next.js / Astro / Nuxt 3 (Nos projetos corporativos e de branding curados)"
+      ],
+      "densidade": "Alta/Utilitaria (Inspeção Técnica Comparativa Multi-Breakpoint)",
+      "impacto": "Editorial/Sofisticado & Pragmático/Analítico"
+    },
+    {
+      "id": "framer-gallery",
+      "name": "Framer Gallery",
+      "url": "https://www.framer.com/gallery/",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/140-framer-gallery.md",
+      "dna": [
+        "Modern Web Craft",
+        "Kinetic Spring Micro-Interactions",
+        "Fluid Viewport Transitions",
+        "Editorial Typography Contrast",
+        "Bento Grid Modularity",
+        "Dark & Light Glassmorphism",
+        "Designer-Developer Convergence"
+      ],
+      "frameworks": [
+        "React",
+        "Framer Motion / Motion.dev",
+        "Next.js",
+        "Tailwind CSS",
+        "Vercel Edge",
+        "Mux Video",
+        "Lucide Icons",
+        "Radix UI"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "141-made-in-webflow",
+      "name": "Made in Webflow",
+      "url": "https://webflow.com/made-in-webflow",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/141-made-in-webflow.md",
+      "dna": [
+        "Client-First Semantic Architecture",
+        "Timeline Scrub & Parallax (IX2/IX3)",
+        "Dynamic CMS Filtering & Attributes",
+        "Bento Grid SaaS & Editorial Showcases",
+        "Kinetic Micro-Interactions",
+        "Open-Source Cloneable Ecosystem",
+        "No-Code High-Fidelity Engineering"
+      ],
+      "frameworks": [
+        "Webflow",
+        "Webflow Interactions 2.0 / IX3",
+        "Finsweet Attributes (Client-First)",
+        "Relume Library",
+        "GSAP / ScrollTrigger",
+        "Lenis Smooth Scroll",
+        "Spline / Three.js",
+        "Lottie / DotLottie",
+        "Tailwind CSS / React (Porting)"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "readymag-examples",
+      "name": "Readymag Examples",
+      "url": "https://www.readymag.com/examples/",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/142-readymag-examples.md",
+      "dna": [
+        "Digital Editorial Publishing",
+        "Freeform Canvas Layout",
+        "Variable & Kinetic Typography",
+        "Scrollytelling Longreads",
+        "Print-to-Web Asymmetry",
+        "Post-Modern Swiss Grid Breaking",
+        "Curatorial Art Direction"
+      ],
+      "frameworks": [
+        "React",
+        "Framer Motion",
+        "Lenis Scroll",
+        "GSAP ScrollTrigger",
+        "Tailwind CSS",
+        "Next.js",
+        "OpenType.js",
+        "SplitType"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "semplice",
+      "name": "Semplice",
+      "url": "https://www.semplice.com/",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/143-semplice.md",
+      "dna": [
+        "Swiss Editorial Modernism",
+        "High-Craft Designer Portfolios",
+        "Uncompromising Typographic Hierarchy",
+        "Fluid Drag-and-Drop Grid System",
+        "Minimalist White/Dark Space",
+        "Cinematic Media Storytelling",
+        "Organic Micro-Interactions"
+      ],
+      "frameworks": [
+        "WordPress (Headless-like Visual Canvas)",
+        "Vanilla JS / ESNext",
+        "GSAP / Framer Motion",
+        "Tailwind CSS",
+        "CSS Grid Level 2",
+        "Custom Web Fonts"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "useplanes",
+      "name": "Useplanes (Planes)",
+      "url": "https://www.useplanes.com/",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/144-useplanes.md",
+      "dna": [
+        "Agent-Ready UI Architecture",
+        "Tactile Physics & Kinetic Settling",
+        "Bayer Ordered Dither & Halftone Data-Viz",
+        "GPU WebGL Fragment Shaders",
+        "Zero-Lockin shadcn Registry Distribution",
+        "Linear & Apple Precision Craftsmanship",
+        "Tailwind CSS v4 & Motion Engine"
+      ],
+      "frameworks": [
+        "React 19",
+        "Next.js App Router",
+        "Tailwind CSS v4",
+        "Motion (motion package / Framer Motion)",
+        "shadcn CLI Registry Architecture",
+        "TypeScript",
+        "Lucide React",
+        "HTML5 Canvas 2D",
+        "WebGL GLSL Shaders"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Experimental/Imersivo"
+    },
+    {
+      "id": "145-21st-dev-libraries",
+      "name": "21st.dev Community Libraries",
+      "url": "https://21st.dev/community/libraries",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/145-21st-dev-libraries.md",
+      "dna": [
+        "The npm for Design Engineers",
+        "shadcn/ui Component Paradigm",
+        "Copy-Paste Code Ownership",
+        "Kinetic Micro-Interactions (Framer Motion)",
+        "Bento Grid Modularity & Glowing Bevels",
+        "Dark Craft & Linear-Inspired Minimalism",
+        "AI Coding Agent Native (MCP & ARD)"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion / Motion.dev",
+        "Radix UI Primitives",
+        "shadcn/ui CLI",
+        "@21st-dev/cli",
+        "Lucide React",
+        "Three.js / Canvas WebGL"
+      ],
+      "densidade": "Alta/Utilitaria",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "21st-dev-motion-libraries",
+      "name": "21st.dev Motion Libraries",
+      "url": "https://21st.dev/community/libraries/s/motion",
+      "category": "6-templates",
+      "schema": "C-galleries",
+      "file": "knowledge/6-templates/146-21st-dev-motion-libraries.md",
+      "dna": [
+        "Crafted Motion UI",
+        "Tactile Micro-Interactions",
+        "Inertial Spring Physics",
+        "Anti-AI-Slop Curation",
+        "Morphing Layouts (FLIP)",
+        "Bento Spatial Cards",
+        "Subtle Refraction Glassmorphism"
+      ],
+      "frameworks": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Motion / Framer Motion (motion.dev)",
+        "Radix UI Primitives",
+        "shadcn/ui CLI Registry",
+        "Lucide React",
+        "21st MCP Protocol"
+      ],
+      "densidade": "Media/Narrativa",
+      "impacto": "Editorial/Sofisticado"
+    },
+    {
+      "id": "typewolf",
+      "name": "Typewolf",
+      "url": "https://www.typewolf.com/",
+      "category": "7-typography",
+      "schema": "D-typography",
+      "file": "knowledge/7-typography/147-typewolf.md",
+      "dna": [
+        "Editorial Typography",
+        "Neo-Grotesque Precision",
+        "Humanist Contrast",
+        "Contemporary Variable Fonts",
+        "Web-First Typographic Craft",
+        "Micro-Typography & Optical Rigor"
+      ],
+      "frameworks": [
+        "CSS Fonts Level 4",
+        "Next/Font",
+        "Google Fonts",
+        "Fontshare",
+        "Adobe Fonts",
+        "OpenType Features",
+        "Independent Type Foundries"
+      ],
+      "densidade": "Alta (Curadoria Exaustiva & Guias Técnicos)",
+      "impacto": "Estrutural & Identitario (60% da interface)"
+    },
+    {
+      "id": "148-fontsinuse",
+      "name": "Fonts In Use",
+      "url": "https://fontsinuse.com/",
+      "category": "7-typography",
+      "schema": "D-typography",
+      "file": "knowledge/7-typography/148-fontsinuse.md",
+      "dna": [
+        "Editorial Archival",
+        "Typographic Field Guide",
+        "Historic & Contemporary Pairing",
+        "Multi-Foundry Indexing",
+        "Optical Hierarchy Precision"
+      ],
+      "frameworks": [
+        "CSS Native",
+        "Next/Font",
+        "Tailwind CSS",
+        "Google Fonts",
+        "Fontshare",
+        "Geist / Vercel Fonts",
+        "Adobe Fonts / Type Network"
+      ],
+      "densidade": "Alta (Indexação taxonômica exaustiva por formatos, fundições, autores, indústrias e períodos)",
+      "impacto": "Estrutural & Identitario (60% da interface)"
+    },
+    {
+      "id": "149-typ-io",
+      "name": "Typ.io",
+      "url": "https://typ.io/",
+      "category": "7-typography",
+      "schema": "D-typography",
+      "file": "knowledge/7-typography/149-typ-io.md",
+      "dna": [
+        "Real-World Web Typography",
+        "Production Font Pairings",
+        "Editorial & Grotesque Harmony",
+        "Data-Driven Type Systems"
+      ],
+      "frameworks": [
+        "CSS3 Fluid Typography",
+        "Next/Font (Google & Local)",
+        "Fontshare",
+        "Tailwind CSS v3/v4",
+        "OpenType Features"
+      ],
+      "densidade": "Alta (Curadoria Estruturada com CSS Real Extraído)",
+      "impacto": "Estrutural & Identitário (60% da interface web)"
+    },
+    {
+      "id": "150-fontpair",
+      "name": "FontPair",
+      "url": "https://www.fontpair.co/",
+      "category": "7-typography",
+      "schema": "D-typography",
+      "file": "knowledge/7-typography/150-fontpair.md",
+      "dna": [
+        "Curadoria Taxonômica de Pares Open-Source & Google Fonts",
+        "Harmonização por Contraste Estrutural (Serif + Sans, Sans + Serif, Mono + Grotesk)",
+        "Rigor Óptico de Legibilidade e Escala Modular",
+        "Democratização Tipográfica sem Custos de Licenciamento de Fundição",
+        "Inspeção Interativa em Tempo Real (Live Specimen Playground)"
+      ],
+      "frameworks": [
+        "CSS Puro / CSS Modules",
+        "Tailwind CSS v3 / v4",
+        "Next.js (next/font/google & next/font/local)",
+        "Google Fonts API v2",
+        "Fontshare (Indian Type Foundry Open Access)",
+        "Geist Typography (Vercel Core)"
+      ],
+      "densidade": "Flexivel (Adaptavel de Baixa Editorial a Alta Densidade Tecnica)",
+      "impacto": "Estrutural & Identitario (60% da Interface na Regra 60-30-10)"
+    }
+  ]
+}

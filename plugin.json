@@ -1,0 +1,11 @@
+{
+  "name": "design-engine",
+  "displayName": "Design Engine — AI Art Director & UI Intelligence",
+  "version": "1.0.0",
+  "description": "Sistema de Inteligência de Design e Co-Criação para Agentes de IA. Transforma pedidos de sites e apps em direções estéticas curadas, componentes de assinatura, física de animação precisa e código de alta fidelidade.",
+  "suggestedPrompts": [
+    "Quero criar um site ou app com design impecável — me ajude a escolher o estilo e os componentes",
+    "Analise um novo link de design e adicione ao catálogo do Design Engine",
+    "Monte um DESIGN_BLUEPRINT.md para o meu projeto atual usando referências do catálogo"
+  ]
+}
